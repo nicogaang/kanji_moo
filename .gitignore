@@ -43,3 +43,33 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Android local configuration (machine specific)
+android/local.properties
+android/key.properties
+
+# Android signing keys
+*.jks
+*.keystore
+
+# iOS build artifacts
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+
+# macOS build artifacts
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# Generated plugin registrant
+**/GeneratedPluginRegistrant.*
+
+# Environment / secrets
+.env
+.env.*
+
+# Flutter build outputs
+build/
+
+# Coverage reports
+coverage/
