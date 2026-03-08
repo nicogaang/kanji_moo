@@ -1,0 +1,6730 @@
+[
+  {
+    "kanji": "与",
+    "onyomi": [
+      "ヨ"
+    ],
+    "kunyomi": [
+      "あずか.る",
+      "あた.える",
+      "くみ.する",
+      "ともに"
+    ],
+    "meanings": [
+      "award",
+      "bestow",
+      "cause",
+      "gift",
+      "give",
+      "godsend",
+      "impart",
+      "participate in",
+      "provide"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "両",
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "てる",
+      "ふたつ"
+    ],
+    "meanings": [
+      "both",
+      "counter for carriages (e.g., in a train)",
+      "old Japanese coin",
+      "two"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "乗",
+    "onyomi": [
+      "ショウ",
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "-の.り",
+      "の.せる",
+      "の.る"
+    ],
+    "meanings": [
+      "board",
+      "counter for vehicles",
+      "join",
+      "mount",
+      "multiplication",
+      "power",
+      "record",
+      "ride"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "予",
+    "onyomi": [
+      "シャ",
+      "ヨ"
+    ],
+    "kunyomi": [
+      "あらかじ.め"
+    ],
+    "meanings": [
+      "I",
+      "beforehand",
+      "myself",
+      "previous"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "争",
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "あらそ.う",
+      "いか.でか"
+    ],
+    "meanings": [
+      "argue",
+      "contend",
+      "dispute"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "互",
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "かたみ.に",
+      "たが.い"
+    ],
+    "meanings": [
+      "mutually",
+      "reciprocally",
+      "together"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "亡",
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "kunyomi": [
+      "な.い",
+      "な.き-",
+      "ほろ.びる",
+      "ほろ.ぶ",
+      "ほろ.ぼす"
+    ],
+    "meanings": [
+      "deceased",
+      "dying",
+      "perish",
+      "the late"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "交",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "-か.う",
+      "か.わす",
+      "かわ.す",
+      "こもごも",
+      "ま.ざる",
+      "ま.じる",
+      "ま.ぜる",
+      "まじ.える",
+      "まじ.る",
+      "まじ.わる"
+    ],
+    "meanings": [
+      "association",
+      "coming & going",
+      "mingle",
+      "mixing"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "他",
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [
+      "ほか"
+    ],
+    "meanings": [
+      "another",
+      "other",
+      "the others"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "付",
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "-つ.き",
+      "-つ.け",
+      "-つ.ける",
+      "-つき",
+      "-づ.き",
+      "-づ.く",
+      "-づ.け",
+      "-づ.ける",
+      "-づき",
+      "-づけ",
+      "つ.き",
+      "つ.く",
+      "つ.け",
+      "つ.け-",
+      "つ.ける"
+    ],
+    "meanings": [
+      "adhere",
+      "append",
+      "attach",
+      "refer to"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "件",
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "くだん"
+    ],
+    "meanings": [
+      "affair",
+      "case",
+      "item",
+      "matter"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "任",
+    "onyomi": [
+      "ニン"
+    ],
+    "kunyomi": [
+      "まか.す",
+      "まか.せる"
+    ],
+    "meanings": [
+      "appoint",
+      "duty",
+      "entrust to",
+      "responsibility",
+      "term"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "伝",
+    "onyomi": [
+      "テン",
+      "デン"
+    ],
+    "kunyomi": [
+      "-づた.い",
+      "つた.う",
+      "つた.える",
+      "つた.わる",
+      "つだ.う",
+      "つて"
+    ],
+    "meanings": [
+      "communicate",
+      "follow",
+      "go along",
+      "legend",
+      "report",
+      "tradition",
+      "transmit",
+      "walk along"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "似",
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "に.る",
+      "ひ.る"
+    ],
+    "meanings": [
+      "becoming",
+      "counterfeit",
+      "imitate",
+      "resemble",
+      "suitable"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "位",
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "くらい",
+      "ぐらい"
+    ],
+    "meanings": [
+      "about",
+      "crown",
+      "grade",
+      "rank",
+      "some",
+      "throne"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "余",
+    "onyomi": [
+      "ヨ"
+    ],
+    "kunyomi": [
+      "あま.す",
+      "あま.り",
+      "あま.る",
+      "あんま.り"
+    ],
+    "meanings": [
+      "myself",
+      "other",
+      "remainder",
+      "surplus",
+      "too much"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "例",
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "たと.える"
+    ],
+    "meanings": [
+      "custom",
+      "example",
+      "precedent",
+      "usage"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "供",
+    "onyomi": [
+      "キョウ",
+      "ク",
+      "クウ",
+      "グ"
+    ],
+    "kunyomi": [
+      "-ども",
+      "そな.える",
+      "とも"
+    ],
+    "meanings": [
+      "accompany",
+      "offer",
+      "present",
+      "serve (meal)",
+      "submit"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "便",
+    "onyomi": [
+      "ビン",
+      "ベン"
+    ],
+    "kunyomi": [
+      "たよ.り"
+    ],
+    "meanings": [
+      "chance",
+      "convenience",
+      "excrement",
+      "facility",
+      "feces",
+      "letter"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "係",
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "-がかり",
+      "かか.る",
+      "かか.わる",
+      "かかり"
+    ],
+    "meanings": [
+      "concern oneself",
+      "connection",
+      "duty",
+      "person in charge"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "信",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "faith",
+      "fidelity",
+      "trust",
+      "truth"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "倒",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "-だお.れ",
+      "さかさ",
+      "さかさま",
+      "さかしま",
+      "たお.す",
+      "たお.れる"
+    ],
+    "meanings": [
+      "break down",
+      "collapse",
+      "drop",
+      "fall",
+      "overthrow"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "候",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "そうろう"
+    ],
+    "meanings": [
+      "climate",
+      "expect",
+      "season",
+      "wait for",
+      "weather"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "値",
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "あたい",
+      "ね"
+    ],
+    "meanings": [
+      "cost",
+      "price",
+      "value"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "偉",
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "えら.い"
+    ],
+    "meanings": [
+      "admirable",
+      "conceited",
+      "excellent",
+      "famous",
+      "greatness",
+      "remarkable"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "側",
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "かわ",
+      "がわ",
+      "そば"
+    ],
+    "meanings": [
+      "lean",
+      "oppose",
+      "regret",
+      "side"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "偶",
+    "onyomi": [
+      "グウ"
+    ],
+    "kunyomi": [
+      "たま"
+    ],
+    "meanings": [
+      "accidentally",
+      "couple",
+      "even number",
+      "man & wife",
+      "same kind"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "備",
+    "onyomi": [
+      "ビ"
+    ],
+    "kunyomi": [
+      "そな.える",
+      "そな.わる",
+      "つぶさ.に"
+    ],
+    "meanings": [
+      "equip",
+      "preparation",
+      "provision"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "働",
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "はたら.く"
+    ],
+    "meanings": [
+      "(kokuji)",
+      "work"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "優",
+    "onyomi": [
+      "ウ",
+      "ユウ"
+    ],
+    "kunyomi": [
+      "すぐ.れる",
+      "まさ.る",
+      "やさ.しい"
+    ],
+    "meanings": [
+      "actor",
+      "excel",
+      "gentleness",
+      "superiority",
+      "surpass",
+      "tenderness"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "光",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひか.る",
+      "ひかり"
+    ],
+    "meanings": [
+      "light",
+      "ray"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "全",
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [
+      "すべ.て",
+      "まった.く"
+    ],
+    "meanings": [
+      "all",
+      "complete",
+      "entire",
+      "fulfill",
+      "whole"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "共",
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "-ども",
+      "とも",
+      "とも.に"
+    ],
+    "meanings": [
+      "alike",
+      "all",
+      "and",
+      "both",
+      "neither",
+      "together",
+      "with"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "具",
+    "onyomi": [
+      "グ"
+    ],
+    "kunyomi": [
+      "そな.える",
+      "つぶさ.に"
+    ],
+    "meanings": [
+      "counter for armor, suits, sets of furniture",
+      "ingredients",
+      "means",
+      "possess",
+      "tool",
+      "utensil"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "内",
+    "onyomi": [
+      "ダイ",
+      "ナイ"
+    ],
+    "kunyomi": [
+      "うち"
+    ],
+    "meanings": [
+      "among",
+      "between",
+      "home",
+      "house",
+      "inside",
+      "within"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "冷",
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "さ.ます",
+      "さ.める",
+      "つめ.たい",
+      "ひ.える",
+      "ひ.や",
+      "ひ.やかす",
+      "ひ.やす",
+      "ひ.ややか"
+    ],
+    "meanings": [
+      "chill",
+      "cold (beer, person)",
+      "cool"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "処",
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "-こ",
+      "お.る",
+      "ところ"
+    ],
+    "meanings": [
+      "act",
+      "behave",
+      "condemn",
+      "deal with",
+      "dispose",
+      "manage",
+      "place",
+      "sentence"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "列",
+    "onyomi": [
+      "レ",
+      "レツ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "column",
+      "file",
+      "rank",
+      "row",
+      "tier"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "初",
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "-そ.める",
+      "-ぞ.め",
+      "うい-",
+      "はじ.め",
+      "はじ.めて",
+      "はつ",
+      "はつ-"
+    ],
+    "meanings": [
+      "beginning",
+      "first time"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "判",
+    "onyomi": [
+      "ハン",
+      "バン"
+    ],
+    "kunyomi": [
+      "わか.る"
+    ],
+    "meanings": [
+      "judgement",
+      "judgment",
+      "seal",
+      "signature",
+      "stamp"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "利",
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [
+      "き.く"
+    ],
+    "meanings": [
+      "advantage",
+      "benefit",
+      "profit"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "到",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "いた.る"
+    ],
+    "meanings": [
+      "arrival",
+      "attain",
+      "proceed",
+      "reach",
+      "result in"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "制",
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "law",
+      "rule",
+      "system"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "刻",
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "きざ.み",
+      "きざ.む"
+    ],
+    "meanings": [
+      "carving",
+      "chop",
+      "cut fine",
+      "engrave",
+      "hash",
+      "mince",
+      "time"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "割",
+    "onyomi": [
+      "カツ"
+    ],
+    "kunyomi": [
+      "さ.く",
+      "わ.り",
+      "わ.る",
+      "わ.れる",
+      "わり"
+    ],
+    "meanings": [
+      "comparatively",
+      "cut",
+      "divide",
+      "proportion",
+      "separate",
+      "split"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "加",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "くわ.える",
+      "くわ.わる"
+    ],
+    "meanings": [
+      "Canada",
+      "add",
+      "addition",
+      "include",
+      "increase",
+      "join"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "助",
+    "onyomi": [
+      "ジョ"
+    ],
+    "kunyomi": [
+      "す.ける",
+      "すけ",
+      "たす.かる",
+      "たす.ける"
+    ],
+    "meanings": [
+      "assist",
+      "help",
+      "rescue"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "努",
+    "onyomi": [
+      "ド"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "meanings": [
+      "as much as possible",
+      "diligent",
+      "toil"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "労",
+    "onyomi": [
+      "ロウ"
+    ],
+    "kunyomi": [
+      "いた.ずき",
+      "いたわ.る",
+      "つか.れる",
+      "ねぎら",
+      "ねぎら.う",
+      "ろう.する"
+    ],
+    "meanings": [
+      "labor",
+      "reward for",
+      "thank for",
+      "toil",
+      "trouble"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "務",
+    "onyomi": [
+      "ム"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "meanings": [
+      "duties",
+      "task"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "勝",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "-が.ち",
+      "か.つ",
+      "かつ",
+      "すぐ.れる",
+      "まさ.る"
+    ],
+    "meanings": [
+      "excel",
+      "prevail",
+      "victory",
+      "win"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "勤",
+    "onyomi": [
+      "キン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "-づと.め",
+      "いそ.しむ",
+      "つと.まる",
+      "つと.める"
+    ],
+    "meanings": [
+      "become employed",
+      "diligence",
+      "serve"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "化",
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "け.する",
+      "ば.かす",
+      "ば.ける",
+      "ふ.ける"
+    ],
+    "meanings": [
+      "-ization",
+      "change",
+      "delude",
+      "enchant",
+      "influence",
+      "take the form of"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "単",
+    "onyomi": [
+      "タン"
+    ],
+    "kunyomi": [
+      "ひとえ"
+    ],
+    "meanings": [
+      "merely",
+      "one",
+      "simple",
+      "single"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "危",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "あぶ.ない",
+      "あや.うい",
+      "あや.ぶむ"
+    ],
+    "meanings": [
+      "dangerous",
+      "fear",
+      "uneasy"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "原",
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "はら"
+    ],
+    "meanings": [
+      "field",
+      "meadow",
+      "original",
+      "plain",
+      "prairie",
+      "primitive",
+      "tundra",
+      "wilderness"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "参",
+    "onyomi": [
+      "サン",
+      "シン"
+    ],
+    "kunyomi": [
+      "まい-",
+      "まい.る",
+      "まじわる",
+      "みつ"
+    ],
+    "meanings": [
+      "be defeated",
+      "be madly in love",
+      "coming",
+      "die",
+      "going",
+      "nonplussed",
+      "participate",
+      "take part in",
+      "three (in documents)",
+      "visit",
+      "visiting"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "反",
+    "onyomi": [
+      "タン",
+      "ハン",
+      "ホ",
+      "ホン"
+    ],
+    "kunyomi": [
+      "-かえ.る",
+      "かえ.す",
+      "かえ.る",
+      "そ.らす",
+      "そ.る"
+    ],
+    "meanings": [
+      "anti-"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "収",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "おさ.まる",
+      "おさ.める"
+    ],
+    "meanings": [
+      "income",
+      "obtain",
+      "pay",
+      "reap",
+      "store",
+      "supply"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "取",
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "-ど.り",
+      "と.り",
+      "と.り-",
+      "と.る",
+      "とり"
+    ],
+    "meanings": [
+      "fetch",
+      "take",
+      "take up"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "受",
+    "onyomi": [
+      "ジュ"
+    ],
+    "kunyomi": [
+      "-う.け",
+      "う.かる",
+      "う.ける"
+    ],
+    "meanings": [
+      "accept",
+      "answer (phone)",
+      "catch",
+      "get",
+      "receive",
+      "take",
+      "undergo"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "号",
+    "onyomi": [
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "さけ.ぶ",
+      "よびな"
+    ],
+    "meanings": [
+      "call",
+      "item",
+      "name",
+      "nickname",
+      "number",
+      "pseudonym",
+      "title"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "合",
+    "onyomi": [
+      "カッ",
+      "ガッ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "-あ.い",
+      "-あ.う",
+      "-あ.わせる",
+      "-あい",
+      "あ.い",
+      "あ.う",
+      "あ.わす",
+      "あ.わせる",
+      "あい-"
+    ],
+    "meanings": [
+      "0.1",
+      "fit",
+      "join",
+      "suit"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "向",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "-む.き",
+      "-む.け",
+      "む.い",
+      "む.かい",
+      "む.かう",
+      "む.く",
+      "む.ける",
+      "む.こう",
+      "む.こう-",
+      "むか.い",
+      "むこ"
+    ],
+    "meanings": [
+      "approach",
+      "beyond",
+      "confront",
+      "defy",
+      "facing",
+      "tend toward",
+      "yonder"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "君",
+    "onyomi": [
+      "クン"
+    ],
+    "kunyomi": [
+      "-ぎみ",
+      "きみ"
+    ],
+    "meanings": [
+      "male name suffix",
+      "mister",
+      "ruler",
+      "you"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "否",
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "いな",
+      "いや"
+    ],
+    "meanings": [
+      "decline",
+      "deny",
+      "negate",
+      "no",
+      "noes",
+      "refuse"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "吸",
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "す.う"
+    ],
+    "meanings": [
+      "imbibe",
+      "inhale",
+      "sip",
+      "suck"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "吹",
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "ふ.く"
+    ],
+    "meanings": [
+      "blow",
+      "breathe",
+      "emit",
+      "puff",
+      "smoke"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "告",
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "つ.げる"
+    ],
+    "meanings": [
+      "announce",
+      "inform",
+      "revelation",
+      "tell"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "呼",
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "よ.ぶ"
+    ],
+    "meanings": [
+      "call",
+      "call out to",
+      "invite"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "命",
+    "onyomi": [
+      "ミョウ",
+      "メイ"
+    ],
+    "kunyomi": [
+      "いのち"
+    ],
+    "meanings": [
+      "appoint",
+      "command",
+      "decree",
+      "destiny",
+      "fate",
+      "life"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "和",
+    "onyomi": [
+      "オ",
+      "カ",
+      "ワ"
+    ],
+    "kunyomi": [
+      "あ.える",
+      "なご.む",
+      "なご.やか",
+      "やわ.らぐ",
+      "やわ.らげる"
+    ],
+    "meanings": [
+      "Japan",
+      "Japanese style",
+      "harmony",
+      "peace",
+      "soften"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "商",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "あきな.う"
+    ],
+    "meanings": [
+      "dealing in",
+      "make a deal",
+      "merchant",
+      "selling"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "喜",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "よろこ.ばす",
+      "よろこ.ぶ"
+    ],
+    "meanings": [
+      "rejoice",
+      "take pleasure in"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "回",
+    "onyomi": [
+      "エ",
+      "カイ"
+    ],
+    "kunyomi": [
+      "-まわ.し",
+      "-まわ.す",
+      "-まわ.り",
+      "-まわ.る",
+      "か.える",
+      "まわ.し-",
+      "まわ.す",
+      "まわ.る",
+      "もとお.る"
+    ],
+    "meanings": [
+      "-times",
+      "counter for occurrences",
+      "game",
+      "revolve",
+      "round"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "因",
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "ちな.む",
+      "よ.る"
+    ],
+    "meanings": [
+      "be associated with",
+      "be limited to",
+      "cause",
+      "depend on",
+      "factor"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "困",
+    "onyomi": [
+      "コン"
+    ],
+    "kunyomi": [
+      "こま.る"
+    ],
+    "meanings": [
+      "annoyed",
+      "become distressed",
+      "quandary"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "園",
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "その"
+    ],
+    "meanings": [
+      "farm",
+      "garden",
+      "park",
+      "yard"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "在",
+    "onyomi": [
+      "ザイ"
+    ],
+    "kunyomi": [
+      "あ.る"
+    ],
+    "meanings": [
+      "exist",
+      "located in",
+      "outskirts",
+      "suburbs"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "報",
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "むく.いる"
+    ],
+    "meanings": [
+      "news",
+      "report",
+      "retribution",
+      "reward"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "増",
+    "onyomi": [
+      "ゾウ"
+    ],
+    "kunyomi": [
+      "ふ.える",
+      "ふ.やす",
+      "ま.し",
+      "ま.す"
+    ],
+    "meanings": [
+      "add",
+      "augment",
+      "gain",
+      "increase",
+      "promote"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "声",
+    "onyomi": [
+      "ショウ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "こえ",
+      "こわ-"
+    ],
+    "meanings": [
+      "voice"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "変",
+    "onyomi": [
+      "ヘン"
+    ],
+    "kunyomi": [
+      "か.える",
+      "か.わり",
+      "か.わる"
+    ],
+    "meanings": [
+      "change",
+      "strange",
+      "unusual"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "夢",
+    "onyomi": [
+      "ボウ",
+      "ム"
+    ],
+    "kunyomi": [
+      "くら.い",
+      "ゆめ",
+      "ゆめ.みる"
+    ],
+    "meanings": [
+      "dream",
+      "illusion",
+      "vision"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "太",
+    "onyomi": [
+      "タ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "ふと.い",
+      "ふと.る"
+    ],
+    "meanings": [
+      "big around",
+      "plump",
+      "thick"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "夫",
+    "onyomi": [
+      "フ",
+      "フウ",
+      "ブ"
+    ],
+    "kunyomi": [
+      "おっと",
+      "それ"
+    ],
+    "meanings": [
+      "husband",
+      "man"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "失",
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "う.せる",
+      "うしな.う"
+    ],
+    "meanings": [
+      "disadvantage",
+      "error",
+      "fault",
+      "lose",
+      "loss"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "好",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "い.い",
+      "この.む",
+      "す.く",
+      "よ.い"
+    ],
+    "meanings": [
+      "fond",
+      "like something",
+      "pleasing"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "妻",
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [
+      "つま"
+    ],
+    "meanings": [
+      "spouse",
+      "wife"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "娘",
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "こ",
+      "むすめ"
+    ],
+    "meanings": [
+      "daughter",
+      "girl"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "婚",
+    "onyomi": [
+      "コン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "marriage"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "婦",
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "よめ"
+    ],
+    "meanings": [
+      "bride",
+      "lady",
+      "wife",
+      "woman"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "存",
+    "onyomi": [
+      "ソン",
+      "ゾン"
+    ],
+    "kunyomi": [
+      "あ.る",
+      "たも.つ",
+      "と.う",
+      "ながら.える"
+    ],
+    "meanings": [
+      "be aware of",
+      "believe",
+      "exist",
+      "feel",
+      "suppose"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "宅",
+    "onyomi": [
+      "タク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "home",
+      "house",
+      "my husband",
+      "our house",
+      "residence"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "守",
+    "onyomi": [
+      "シュ",
+      "ス"
+    ],
+    "kunyomi": [
+      "-もり",
+      "かみ",
+      "まも.り",
+      "まも.る",
+      "もり"
+    ],
+    "meanings": [
+      "defend",
+      "guard",
+      "obey",
+      "protect"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "完",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "completion",
+      "end",
+      "perfect"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "官",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "bureaucrat",
+      "organ",
+      "the government"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "定",
+    "onyomi": [
+      "ジョウ",
+      "テイ"
+    ],
+    "kunyomi": [
+      "さだ.か",
+      "さだ.まる",
+      "さだ.める"
+    ],
+    "meanings": [
+      "decide",
+      "determine",
+      "establish",
+      "fix"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "実",
+    "onyomi": [
+      "シツ",
+      "ジツ"
+    ],
+    "kunyomi": [
+      "まこと",
+      "み",
+      "みち.る",
+      "みの",
+      "みの.る"
+    ],
+    "meanings": [
+      "fruit",
+      "nut",
+      "reality",
+      "seed",
+      "truth"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "客",
+    "onyomi": [
+      "カク",
+      "キャク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "client",
+      "customer",
+      "guest",
+      "visitor"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "害",
+    "onyomi": [
+      "ガイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "harm",
+      "injury"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "容",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "い.れる"
+    ],
+    "meanings": [
+      "contain",
+      "form",
+      "looks"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "宿",
+    "onyomi": [
+      "シュク"
+    ],
+    "kunyomi": [
+      "やど",
+      "やど.す",
+      "やど.る"
+    ],
+    "meanings": [
+      "be pregnant",
+      "dwell",
+      "dwelling",
+      "home",
+      "inn",
+      "lodge",
+      "lodging",
+      "relay station"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "寄",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "-よ.り",
+      "よ.せる",
+      "よ.る"
+    ],
+    "meanings": [
+      "bring near",
+      "collect",
+      "draw near",
+      "forward",
+      "gather",
+      "send",
+      "stop in"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "富",
+    "onyomi": [
+      "フ",
+      "フウ"
+    ],
+    "kunyomi": [
+      "と.む",
+      "とみ"
+    ],
+    "meanings": [
+      "abundant",
+      "enrich",
+      "wealth"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "寒",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "さむ.い"
+    ],
+    "meanings": [
+      "cold"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "寝",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "い.ぬ",
+      "ね.かす",
+      "ね.る",
+      "みたまや",
+      "や.める"
+    ],
+    "meanings": [
+      "bed",
+      "lie down",
+      "remain unsold",
+      "rest",
+      "sleep"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "察",
+    "onyomi": [
+      "サツ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "guess",
+      "judge",
+      "presume",
+      "surmise",
+      "understand"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "対",
+    "onyomi": [
+      "タイ",
+      "ツイ"
+    ],
+    "kunyomi": [
+      "あいて",
+      "こた.える",
+      "そろ.い",
+      "つれあ.い",
+      "なら.ぶ",
+      "むか.う"
+    ],
+    "meanings": [
+      "anti-",
+      "compare",
+      "equal",
+      "even",
+      "opposite",
+      "versus",
+      "vis-a-vis"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "局",
+    "onyomi": [
+      "キョク"
+    ],
+    "kunyomi": [
+      "つぼね"
+    ],
+    "meanings": [
+      "affair",
+      "board",
+      "bureau",
+      "conclusion",
+      "court lady",
+      "her apartment",
+      "lady-in-waiting",
+      "office"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "居",
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "kunyomi": [
+      "-い",
+      "い.る",
+      "お.る"
+    ],
+    "meanings": [
+      "exist",
+      "live with",
+      "reside",
+      "to be"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "差",
+    "onyomi": [
+      "サ"
+    ],
+    "kunyomi": [
+      "さ.し",
+      "さ.す"
+    ],
+    "meanings": [
+      "balance",
+      "difference",
+      "discrepancy",
+      "distinction",
+      "margin",
+      "variation"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "市",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "いち"
+    ],
+    "meanings": [
+      "city",
+      "market",
+      "town"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "師",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "いくさ"
+    ],
+    "meanings": [
+      "army (incl. counter)",
+      "exemplar",
+      "expert",
+      "master",
+      "model",
+      "teacher",
+      "war"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "席",
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "むしろ"
+    ],
+    "meanings": [
+      "mat",
+      "occasion",
+      "place",
+      "seat"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "常",
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "つね",
+      "とこ-"
+    ],
+    "meanings": [
+      "always",
+      "common",
+      "continually",
+      "long-lasting",
+      "normal",
+      "ordinary",
+      "regular",
+      "usual"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "平",
+    "onyomi": [
+      "ヒョウ",
+      "ビョウ",
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "たい.ら",
+      "たい.らげる",
+      "ひら"
+    ],
+    "meanings": [
+      "even",
+      "flat",
+      "peace"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "幸",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "さいわ.い",
+      "さち",
+      "しあわ.せ"
+    ],
+    "meanings": [
+      "blessing",
+      "fortune",
+      "happiness"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "幾",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "いく-",
+      "いく.つ",
+      "いく.ら"
+    ],
+    "meanings": [
+      "how far",
+      "how long",
+      "how many",
+      "how much",
+      "several",
+      "some"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "座",
+    "onyomi": [
+      "ザ"
+    ],
+    "kunyomi": [
+      "すわ.る"
+    ],
+    "meanings": [
+      "cushion",
+      "gathering",
+      "seat",
+      "sit",
+      "squat"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "庭",
+    "onyomi": [
+      "テイ"
+    ],
+    "kunyomi": [
+      "にわ"
+    ],
+    "meanings": [
+      "courtyard",
+      "garden",
+      "yard"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "式",
+    "onyomi": [
+      "シキ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "ceremony",
+      "expression",
+      "form",
+      "function",
+      "method",
+      "rite",
+      "style",
+      "system"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "引",
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "ひ.く",
+      "ひ.ける"
+    ],
+    "meanings": [
+      "admit",
+      "install",
+      "jerk",
+      "pull",
+      "quote",
+      "refer to",
+      "tug"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "当",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "あ.たり",
+      "あ.たる",
+      "あ.て",
+      "あ.てる",
+      "まさ.に",
+      "まさ.にべし"
+    ],
+    "meanings": [
+      "appropriate",
+      "himself",
+      "hit",
+      "right"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "形",
+    "onyomi": [
+      "ギョウ",
+      "ケイ"
+    ],
+    "kunyomi": [
+      "-がた",
+      "かた",
+      "かたち",
+      "なり"
+    ],
+    "meanings": [
+      "form",
+      "shape",
+      "style"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "役",
+    "onyomi": [
+      "エキ",
+      "ヤク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "campaign",
+      "drafted labor",
+      "duty",
+      "office",
+      "role",
+      "service",
+      "war"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "彼",
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "か.の",
+      "かの",
+      "かれ"
+    ],
+    "meanings": [
+      "he",
+      "that",
+      "the"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "徒",
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "あだ",
+      "いたずら"
+    ],
+    "meanings": [
+      "emptiness",
+      "ephemeral thing",
+      "futility",
+      "gang",
+      "junior",
+      "on foot",
+      "party",
+      "people",
+      "set",
+      "uselessness",
+      "vanity"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "得",
+    "onyomi": [
+      "トク"
+    ],
+    "kunyomi": [
+      "う.る",
+      "え.る"
+    ],
+    "meanings": [
+      "able to",
+      "acquire",
+      "advantage",
+      "benefit",
+      "can",
+      "earn",
+      "find",
+      "gain",
+      "get",
+      "may",
+      "profit"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "御",
+    "onyomi": [
+      "ギョ",
+      "ゴ"
+    ],
+    "kunyomi": [
+      "お-",
+      "おん-",
+      "み-"
+    ],
+    "meanings": [
+      "govern",
+      "honorable",
+      "manipulate"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "必",
+    "onyomi": [
+      "ヒツ"
+    ],
+    "kunyomi": [
+      "かなら.ず"
+    ],
+    "meanings": [
+      "certain",
+      "inevitable",
+      "invariably"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "忘",
+    "onyomi": [
+      "ボウ"
+    ],
+    "kunyomi": [
+      "わす.れる"
+    ],
+    "meanings": [
+      "forget"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "忙",
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "kunyomi": [
+      "いそが.しい",
+      "うれえるさま",
+      "おそ.れる",
+      "せわ.しい"
+    ],
+    "meanings": [
+      "busy",
+      "occupied",
+      "restless"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "念",
+    "onyomi": [
+      "ネン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "attention",
+      "desire",
+      "feeling",
+      "idea",
+      "sense",
+      "thought",
+      "wish"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "怒",
+    "onyomi": [
+      "ド",
+      "ヌ"
+    ],
+    "kunyomi": [
+      "いか.る",
+      "おこ.る"
+    ],
+    "meanings": [
+      "angry",
+      "be offended"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "怖",
+    "onyomi": [
+      "フ",
+      "ホ"
+    ],
+    "kunyomi": [
+      "お.じる",
+      "おそ.れる",
+      "こわ.い",
+      "こわ.がる"
+    ],
+    "meanings": [
+      "be frightened",
+      "dreadful",
+      "fearful"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "性",
+    "onyomi": [
+      "ショウ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "さが"
+    ],
+    "meanings": [
+      "gender",
+      "nature",
+      "sex"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "恐",
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "おそ.る",
+      "おそ.れる",
+      "おそ.ろしい",
+      "こわ.い",
+      "こわ.がる"
+    ],
+    "meanings": [
+      "awe",
+      "dread",
+      "fear"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "恥",
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "は.じらう",
+      "は.じる",
+      "は.ずかしい",
+      "はじ"
+    ],
+    "meanings": [
+      "dishonor",
+      "shame"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "息",
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "いき"
+    ],
+    "meanings": [
+      "breath",
+      "coming to an end",
+      "interest (on money)",
+      "nuture",
+      "respiration",
+      "rest",
+      "son"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "悲",
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "かな.しい",
+      "かな.しむ"
+    ],
+    "meanings": [
+      "deplore",
+      "grieve",
+      "regret",
+      "sad"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "情",
+    "onyomi": [
+      "ジョウ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "なさ.け"
+    ],
+    "meanings": [
+      "circumstances",
+      "emotion",
+      "facts",
+      "feelings",
+      "passion",
+      "sympathy"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "想",
+    "onyomi": [
+      "ソ",
+      "ソウ"
+    ],
+    "kunyomi": [
+      "おも.う"
+    ],
+    "meanings": [
+      "concept",
+      "idea",
+      "think",
+      "thought"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "愛",
+    "onyomi": [
+      "アイ"
+    ],
+    "kunyomi": [
+      "いと.しい",
+      "お.しむ",
+      "かな.しい",
+      "まな",
+      "め.でる"
+    ],
+    "meanings": [
+      "affection",
+      "favourite",
+      "love"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "感",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "emotion",
+      "feeling",
+      "sensation"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "慣",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "な.らす",
+      "な.れる"
+    ],
+    "meanings": [
+      "accustomed",
+      "become experienced",
+      "get used to"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "成",
+    "onyomi": [
+      "ジョウ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "-な.す",
+      "な.す",
+      "な.る"
+    ],
+    "meanings": [
+      "become",
+      "elapse",
+      "get",
+      "grow",
+      "reach",
+      "turn into"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "戦",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "いくさ",
+      "おのの.く",
+      "そよ.ぐ",
+      "たたか.う",
+      "わなな.く"
+    ],
+    "meanings": [
+      "battle",
+      "match",
+      "war"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "戻",
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "もど.す",
+      "もど.る"
+    ],
+    "meanings": [
+      "go backwards",
+      "re-",
+      "restore",
+      "resume",
+      "return",
+      "revert"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "所",
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "-ところ",
+      "とこ",
+      "ところ",
+      "どころ"
+    ],
+    "meanings": [
+      "extent",
+      "place"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "才",
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "cubic shaku",
+      "genius",
+      "years old"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "打",
+    "onyomi": [
+      "ダ",
+      "ダース"
+    ],
+    "kunyomi": [
+      "う.ち-",
+      "う.つ",
+      "ぶ.つ"
+    ],
+    "meanings": [
+      "dozen",
+      "hit",
+      "knock",
+      "pound",
+      "strike"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "払",
+    "onyomi": [
+      "ヒツ",
+      "フツ",
+      "ホツ"
+    ],
+    "kunyomi": [
+      "-はら.い",
+      "-ばら.い",
+      "はら.う"
+    ],
+    "meanings": [
+      "banish",
+      "clear out",
+      "dispose of",
+      "pay",
+      "prune"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "投",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "-な.げ",
+      "な.げる"
+    ],
+    "meanings": [
+      "abandon",
+      "discard",
+      "give up",
+      "hurl",
+      "invest in",
+      "join",
+      "launch into",
+      "sell at a loss",
+      "throw"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "折",
+    "onyomi": [
+      "シャク",
+      "セツ"
+    ],
+    "kunyomi": [
+      "-お.り",
+      "お.り",
+      "お.る",
+      "お.れる",
+      "おり"
+    ],
+    "meanings": [
+      "bend",
+      "break",
+      "fold",
+      "fracture",
+      "submit",
+      "yield"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "抜",
+    "onyomi": [
+      "ハイ",
+      "ハツ",
+      "バツ"
+    ],
+    "kunyomi": [
+      "-ぬ.く",
+      "ぬ.かす",
+      "ぬ.かる",
+      "ぬ.き",
+      "ぬ.く",
+      "ぬ.ける"
+    ],
+    "meanings": [
+      "extract",
+      "omit",
+      "pilfer",
+      "pull out",
+      "quote",
+      "remove",
+      "slip out"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "抱",
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "いだ.く",
+      "かか.える",
+      "だ.く"
+    ],
+    "meanings": [
+      "embrace",
+      "hold in arms",
+      "hug"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "押",
+    "onyomi": [
+      "オウ"
+    ],
+    "kunyomi": [
+      "お.さえる",
+      "お.し-",
+      "お.す",
+      "お.っ-",
+      "おさ.える"
+    ],
+    "meanings": [
+      "attach",
+      "check",
+      "do in spite of",
+      "press",
+      "push",
+      "seal",
+      "seize",
+      "shove",
+      "stop",
+      "subdue",
+      "weight"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "招",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "まね.く"
+    ],
+    "meanings": [
+      "beckon",
+      "engage",
+      "invite",
+      "summon"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "指",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "-さ.し",
+      "さ.す",
+      "ゆび"
+    ],
+    "meanings": [
+      "finger",
+      "indicate",
+      "measure (ruler)",
+      "play (chess)",
+      "point to",
+      "put into"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "捕",
+    "onyomi": [
+      "ホ"
+    ],
+    "kunyomi": [
+      "つか.まえる",
+      "つか.まる",
+      "と.らえる",
+      "と.らわれる",
+      "と.る",
+      "とら.える",
+      "とら.われる"
+    ],
+    "meanings": [
+      "capture",
+      "catch"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "掛",
+    "onyomi": [
+      "カイ",
+      "ケイ"
+    ],
+    "kunyomi": [
+      "-か.かる",
+      "-か.け",
+      "-か.ける",
+      "-が.かり",
+      "-が.かる",
+      "-が.け",
+      "-がかり",
+      "か.かり",
+      "か.かる",
+      "か.け",
+      "か.ける",
+      "かかり"
+    ],
+    "meanings": [
+      "arrive at",
+      "depend",
+      "hang",
+      "pour",
+      "suspend",
+      "tax"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "探",
+    "onyomi": [
+      "タン"
+    ],
+    "kunyomi": [
+      "さが.す",
+      "さぐ.る"
+    ],
+    "meanings": [
+      "grope",
+      "look for",
+      "search"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "支",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "か.う",
+      "ささ.える",
+      "つか.える"
+    ],
+    "meanings": [
+      "branch",
+      "branch radical (no. 65)",
+      "support",
+      "sustain"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "放",
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "-っぱな.し",
+      "こ.く",
+      "はな.す",
+      "はな.つ",
+      "はな.れる",
+      "ほう.る"
+    ],
+    "meanings": [
+      "banish",
+      "emit",
+      "fire",
+      "liberate",
+      "release",
+      "set free",
+      "shoot"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "政",
+    "onyomi": [
+      "ショウ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "まつりごと",
+      "まん"
+    ],
+    "meanings": [
+      "government",
+      "politics"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "敗",
+    "onyomi": [
+      "ハイ"
+    ],
+    "kunyomi": [
+      "やぶ.れる"
+    ],
+    "meanings": [
+      "defeat",
+      "failure",
+      "reversal"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "散",
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "-ち.らす",
+      "ち.らかす",
+      "ち.らかる",
+      "ち.らす",
+      "ち.らばる",
+      "ち.る",
+      "ばら",
+      "ばら.ける"
+    ],
+    "meanings": [
+      "disperse",
+      "scatter",
+      "spend",
+      "squander"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "数",
+    "onyomi": [
+      "サク",
+      "シュ",
+      "ス",
+      "スウ",
+      "ソク"
+    ],
+    "kunyomi": [
+      "かず",
+      "かぞ.える",
+      "しばしば",
+      "せ.める",
+      "わずらわ.しい"
+    ],
+    "meanings": [
+      "fate",
+      "figures",
+      "law",
+      "number",
+      "strength"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "断",
+    "onyomi": [
+      "ダン"
+    ],
+    "kunyomi": [
+      "ことわ.る",
+      "さだ.める",
+      "た.つ"
+    ],
+    "meanings": [
+      "apologize",
+      "cutting",
+      "decision",
+      "decline",
+      "dismiss",
+      "judgement",
+      "prohibit",
+      "refuse",
+      "severance",
+      "warn"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "易",
+    "onyomi": [
+      "イ",
+      "エキ"
+    ],
+    "kunyomi": [
+      "やさ.しい",
+      "やす.い"
+    ],
+    "meanings": [
+      "divination",
+      "easy",
+      "fortune-telling",
+      "ready to",
+      "simple"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "昔",
+    "onyomi": [
+      "シャク",
+      "セキ"
+    ],
+    "kunyomi": [
+      "むかし"
+    ],
+    "meanings": [
+      "antiquity",
+      "old times",
+      "once upon a time"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "昨",
+    "onyomi": [
+      "サク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "previous",
+      "yesterday"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "晩",
+    "onyomi": [
+      "バン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "night",
+      "nightfall"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "景",
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "scenery",
+      "view"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "晴",
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [
+      "-ば.れ",
+      "は.らす",
+      "は.れ",
+      "は.れ-",
+      "は.れる"
+    ],
+    "meanings": [
+      "clear up"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "暗",
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "くら.い",
+      "くら.む",
+      "くれ.る"
+    ],
+    "meanings": [
+      "be blinded",
+      "darkness",
+      "disappear",
+      "grow dark",
+      "informal",
+      "shade"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "暮",
+    "onyomi": [
+      "ボ"
+    ],
+    "kunyomi": [
+      "く.らす",
+      "く.れる"
+    ],
+    "meanings": [
+      "evening",
+      "livelihood",
+      "make a living",
+      "season's end",
+      "spend time",
+      "twilight"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "曲",
+    "onyomi": [
+      "キョク"
+    ],
+    "kunyomi": [
+      "くま",
+      "ま.がる",
+      "ま.げる"
+    ],
+    "meanings": [
+      "bend",
+      "composition",
+      "crooked",
+      "curve",
+      "fault",
+      "injustice",
+      "lean",
+      "melody",
+      "music",
+      "perverse",
+      "pleasure"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "更",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "さら",
+      "さら.に",
+      "ふ.かす",
+      "ふ.ける"
+    ],
+    "meanings": [
+      "again",
+      "further",
+      "grow late",
+      "more and more",
+      "night watch",
+      "of course",
+      "renew",
+      "renovate",
+      "sit up late"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "最",
+    "onyomi": [
+      "サイ",
+      "シュ"
+    ],
+    "kunyomi": [
+      "つま",
+      "もっと.も"
+    ],
+    "meanings": [
+      "extreme",
+      "most",
+      "utmost"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "望",
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "kunyomi": [
+      "のぞ.む",
+      "もち"
+    ],
+    "meanings": [
+      "ambition",
+      "aspire to",
+      "desire",
+      "expect",
+      "full moon",
+      "hope"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "期",
+    "onyomi": [
+      "キ",
+      "ゴ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "date",
+      "period",
+      "term",
+      "time"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "未",
+    "onyomi": [
+      "ビ",
+      "ミ"
+    ],
+    "kunyomi": [
+      "いま.だ",
+      "ひつじ",
+      "ま.だ"
+    ],
+    "meanings": [
+      "1-3PM",
+      "eighth sign of Chinese zodiac",
+      "even now",
+      "hitherto",
+      "not yet",
+      "sign of the ram",
+      "still",
+      "un-"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "末",
+    "onyomi": [
+      "バツ",
+      "マツ"
+    ],
+    "kunyomi": [
+      "うら",
+      "うれ",
+      "すえ"
+    ],
+    "meanings": [
+      "close",
+      "end",
+      "posterity",
+      "powder",
+      "tip"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "束",
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "たば",
+      "たば.ねる",
+      "つか",
+      "つか.ねる"
+    ],
+    "meanings": [
+      "bundle",
+      "control",
+      "govern",
+      "manage",
+      "ream",
+      "sheaf",
+      "tie in bundles"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "杯",
+    "onyomi": [
+      "ハイ"
+    ],
+    "kunyomi": [
+      "さかずき"
+    ],
+    "meanings": [
+      "counter for cupfuls",
+      "glass",
+      "toast",
+      "wine glass"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "果",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "-は.たす",
+      "-は.てる",
+      "は.たす",
+      "は.て",
+      "は.てる",
+      "はた.す"
+    ],
+    "meanings": [
+      "achieve",
+      "carry out",
+      "complete",
+      "end",
+      "finish",
+      "fruit",
+      "reward",
+      "succeed"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "格",
+    "onyomi": [
+      "カク",
+      "キャク",
+      "コウ",
+      "ゴウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "capacity",
+      "case (law, grammar)",
+      "character",
+      "rank",
+      "status"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "構",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "かま.う",
+      "かま.える"
+    ],
+    "meanings": [
+      "appearance",
+      "build",
+      "posture",
+      "set up",
+      "stance"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "様",
+    "onyomi": [
+      "ショウ",
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "さま",
+      "さん"
+    ],
+    "meanings": [
+      "Esq.",
+      "manner",
+      "polite suffix",
+      "situation",
+      "way"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "権",
+    "onyomi": [
+      "ケン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "おもり",
+      "かり",
+      "はか.る"
+    ],
+    "meanings": [
+      "authority",
+      "power",
+      "rights"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "横",
+    "onyomi": [
+      "オウ"
+    ],
+    "kunyomi": [
+      "よこ"
+    ],
+    "meanings": [
+      "horizontal",
+      "perverse",
+      "side",
+      "sideways",
+      "unreasonable",
+      "width",
+      "woof"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "機",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "はた"
+    ],
+    "meanings": [
+      "airplane",
+      "efficacy",
+      "loom",
+      "machine",
+      "mechanism",
+      "occasion",
+      "opportunity",
+      "potency"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "欠",
+    "onyomi": [
+      "ケツ",
+      "ケン"
+    ],
+    "kunyomi": [
+      "か.く",
+      "か.ける"
+    ],
+    "meanings": [
+      "fail",
+      "gap",
+      "lack",
+      "yawning radical (no. 76)"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "次",
+    "onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "つ.ぐ",
+      "つぎ"
+    ],
+    "meanings": [
+      "next",
+      "order",
+      "sequence"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "欲",
+    "onyomi": [
+      "ヨク"
+    ],
+    "kunyomi": [
+      "ほ.しい",
+      "ほっ.する"
+    ],
+    "meanings": [
+      "covetousness",
+      "craving",
+      "desire",
+      "greed",
+      "longing",
+      "passion"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "歯",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "は",
+      "よわ.い",
+      "よわい",
+      "よわい.する"
+    ],
+    "meanings": [
+      "cog",
+      "tooth"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "歳",
+    "onyomi": [
+      "サイ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "とし",
+      "とせ",
+      "よわい"
+    ],
+    "meanings": [
+      "age",
+      "occasion",
+      "opportunity",
+      "year-end"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "残",
+    "onyomi": [
+      "サン",
+      "ザン"
+    ],
+    "kunyomi": [
+      "そこな.う",
+      "のこ.す",
+      "のこ.り",
+      "のこ.る"
+    ],
+    "meanings": [
+      "balance",
+      "leftover",
+      "remainder"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "段",
+    "onyomi": [
+      "タン",
+      "ダン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "grade",
+      "stairs",
+      "steps"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "殺",
+    "onyomi": [
+      "サイ",
+      "サツ",
+      "セツ"
+    ],
+    "kunyomi": [
+      "-ごろ.し",
+      "あや.める",
+      "ころ.す",
+      "そ.ぐ"
+    ],
+    "meanings": [
+      "butcher",
+      "diminish",
+      "kill",
+      "murder",
+      "reduce",
+      "slice off",
+      "split",
+      "spoil"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "民",
+    "onyomi": [
+      "ミン"
+    ],
+    "kunyomi": [
+      "たみ"
+    ],
+    "meanings": [
+      "nation",
+      "people",
+      "subjects"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "求",
+    "onyomi": [
+      "キュウ",
+      "グ"
+    ],
+    "kunyomi": [
+      "もと.める"
+    ],
+    "meanings": [
+      "demand",
+      "request",
+      "require",
+      "want",
+      "wish for"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "決",
+    "onyomi": [
+      "ケツ"
+    ],
+    "kunyomi": [
+      "-ぎ.め",
+      "き.まる",
+      "き.める",
+      "さ.く"
+    ],
+    "meanings": [
+      "agree upon",
+      "appoint",
+      "decide",
+      "fix"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "治",
+    "onyomi": [
+      "ジ",
+      "チ"
+    ],
+    "kunyomi": [
+      "おさ.まる",
+      "おさ.める",
+      "なお.す",
+      "なお.る"
+    ],
+    "meanings": [
+      "be at peace",
+      "calm down",
+      "conserve",
+      "cure",
+      "govt",
+      "heal",
+      "quell",
+      "reign",
+      "rule",
+      "subdue"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "法",
+    "onyomi": [
+      "ハッ",
+      "フラン",
+      "ホウ",
+      "ホッ"
+    ],
+    "kunyomi": [
+      "のり"
+    ],
+    "meanings": [
+      "law",
+      "method",
+      "model",
+      "principle",
+      "rule",
+      "system"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "泳",
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "およ.ぐ"
+    ],
+    "meanings": [
+      "swim"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "洗",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "あら.う"
+    ],
+    "meanings": [
+      "inquire into",
+      "probe",
+      "wash"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "活",
+    "onyomi": [
+      "カツ"
+    ],
+    "kunyomi": [
+      "い.かす",
+      "い.きる",
+      "い.ける"
+    ],
+    "meanings": [
+      "being helped",
+      "lively",
+      "living",
+      "resuscitation"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "流",
+    "onyomi": [
+      "リュウ",
+      "ル"
+    ],
+    "kunyomi": [
+      "-なが.す",
+      "なが.す",
+      "なが.れ",
+      "なが.れる"
+    ],
+    "meanings": [
+      "a sink",
+      "current",
+      "flow",
+      "forfeit"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "浮",
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "う.かぶ",
+      "う.かべる",
+      "う.かれる",
+      "う.く"
+    ],
+    "meanings": [
+      "float",
+      "floating",
+      "rise to surface"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "消",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "き.える",
+      "け.す"
+    ],
+    "meanings": [
+      "blow out",
+      "cancel",
+      "extinguish",
+      "neutralize",
+      "turn off"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "深",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "-ぶか.い",
+      "ふか.い",
+      "ふか.まる",
+      "ふか.める",
+      "み-"
+    ],
+    "meanings": [
+      "deep",
+      "heighten",
+      "intensify",
+      "strengthen"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "済",
+    "onyomi": [
+      "サイ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "-す.ます",
+      "-ず.み",
+      "-ずみ",
+      "す.ます",
+      "す.まない",
+      "す.む",
+      "すく.う",
+      "な.す",
+      "わた.る",
+      "わたし"
+    ],
+    "meanings": [
+      "come to an end",
+      "excusable",
+      "finish",
+      "need not",
+      "relieve (burden)",
+      "settle (debt, etc.)"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "渡",
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "-わた.る",
+      "わた.す",
+      "わた.る"
+    ],
+    "meanings": [
+      "cross",
+      "deliver",
+      "diameter",
+      "ferry",
+      "ford",
+      "import",
+      "migrate",
+      "transit"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "港",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "みなと"
+    ],
+    "meanings": [
+      "harbor"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "満",
+    "onyomi": [
+      "バン",
+      "マン"
+    ],
+    "kunyomi": [
+      "み.たす",
+      "み.ちる",
+      "み.つ"
+    ],
+    "meanings": [
+      "enough",
+      "full",
+      "fullness",
+      "satisfy"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "演",
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "act",
+      "performance",
+      "play",
+      "render",
+      "stage"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "点",
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "さ.す",
+      "た.てる",
+      "つ.く",
+      "つ.ける",
+      "とぼ.す",
+      "とも.す",
+      "ぼち"
+    ],
+    "meanings": [
+      "decimal point",
+      "mark",
+      "point",
+      "speck",
+      "spot"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "然",
+    "onyomi": [
+      "ゼン",
+      "ネン"
+    ],
+    "kunyomi": [
+      "さ",
+      "しか",
+      "しか.し",
+      "しか.り"
+    ],
+    "meanings": [
+      "if so",
+      "in that case",
+      "so",
+      "sort of thing",
+      "well"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "煙",
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "けむ.い",
+      "けむ.る",
+      "けむり"
+    ],
+    "meanings": [
+      "smoke"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "熱",
+    "onyomi": [
+      "ネツ"
+    ],
+    "kunyomi": [
+      "あつ.い"
+    ],
+    "meanings": [
+      "fever",
+      "heat",
+      "mania",
+      "passion",
+      "temperature"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "犯",
+    "onyomi": [
+      "ハン",
+      "ボン"
+    ],
+    "kunyomi": [
+      "おか.す"
+    ],
+    "meanings": [
+      "crime",
+      "offense",
+      "sin"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "状",
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "appearance",
+      "circumstances",
+      "conditions",
+      "form",
+      "status quo"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "猫",
+    "onyomi": [
+      "ビョウ"
+    ],
+    "kunyomi": [
+      "ねこ"
+    ],
+    "meanings": [
+      "cat"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "王",
+    "onyomi": [
+      "-ノウ",
+      "オウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "king",
+      "magnate",
+      "rule"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "現",
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "あらわ.す",
+      "あらわ.れる",
+      "うつ.つ",
+      "うつつ"
+    ],
+    "meanings": [
+      "actual",
+      "existing",
+      "present"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "球",
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "たま"
+    ],
+    "meanings": [
+      "ball",
+      "sphere"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "産",
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "う.まれる",
+      "う.む",
+      "うぶ-",
+      "む.す"
+    ],
+    "meanings": [
+      "bear",
+      "childbirth",
+      "give birth",
+      "native",
+      "products",
+      "property",
+      "yield"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "由",
+    "onyomi": [
+      "ユ",
+      "ユイ",
+      "ユウ"
+    ],
+    "kunyomi": [
+      "よ.る",
+      "よし"
+    ],
+    "meanings": [
+      "a reason",
+      "wherefore"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "申",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "さる",
+      "もう.し-",
+      "もう.す"
+    ],
+    "meanings": [
+      "3-5PM",
+      "have the honor to",
+      "ninth sign of Chinese zodiac",
+      "sign of the monkey"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "留",
+    "onyomi": [
+      "リュウ",
+      "ル"
+    ],
+    "kunyomi": [
+      "と.まる",
+      "と.める",
+      "とど.まる",
+      "とど.める",
+      "るうぶる"
+    ],
+    "meanings": [
+      "detain",
+      "fasten",
+      "halt",
+      "stop"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "番",
+    "onyomi": [
+      "バン"
+    ],
+    "kunyomi": [
+      "つが.い"
+    ],
+    "meanings": [
+      "number in a series",
+      "turn"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "疑",
+    "onyomi": [
+      "ギ"
+    ],
+    "kunyomi": [
+      "うたが.う"
+    ],
+    "meanings": [
+      "be suspicious",
+      "distrust",
+      "doubt",
+      "question"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "疲",
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "-づか.れ",
+      "つか.らす",
+      "つか.れる"
+    ],
+    "meanings": [
+      "exhausted",
+      "tire",
+      "weary"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "痛",
+    "onyomi": [
+      "ツウ"
+    ],
+    "kunyomi": [
+      "いた.い",
+      "いた.ましい",
+      "いた.む",
+      "いた.める"
+    ],
+    "meanings": [
+      "bruise",
+      "damage",
+      "hurt",
+      "pain"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "登",
+    "onyomi": [
+      "ショウ",
+      "チョウ",
+      "ト",
+      "トウ",
+      "ドウ"
+    ],
+    "kunyomi": [
+      "あ.がる",
+      "のぼ.る"
+    ],
+    "meanings": [
+      "ascend",
+      "climb up"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "皆",
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "みな",
+      "みんな"
+    ],
+    "meanings": [
+      "all",
+      "everything"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "盗",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ぬす.み",
+      "ぬす.む"
+    ],
+    "meanings": [
+      "pilfer",
+      "rob",
+      "steal"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "直",
+    "onyomi": [
+      "ジカ",
+      "ジキ",
+      "チョク"
+    ],
+    "kunyomi": [
+      "-なお.す",
+      "す.ぐ",
+      "ただ.ちに",
+      "なお.き",
+      "なお.す",
+      "なお.る"
+    ],
+    "meanings": [
+      "fix",
+      "frankness",
+      "honesty",
+      "repair",
+      "straightaway"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "相",
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "kunyomi": [
+      "あい-"
+    ],
+    "meanings": [
+      "aspect",
+      "councillor",
+      "each other",
+      "inter-",
+      "minister of state",
+      "mutual",
+      "phase",
+      "physiognomy",
+      "together"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "眠",
+    "onyomi": [
+      "ミン"
+    ],
+    "kunyomi": [
+      "ねむ.い",
+      "ねむ.る"
+    ],
+    "meanings": [
+      "die",
+      "sleep",
+      "sleepy"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "石",
+    "onyomi": [
+      "コク",
+      "シャク",
+      "セキ"
+    ],
+    "kunyomi": [
+      "いし"
+    ],
+    "meanings": [
+      "stone"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "破",
+    "onyomi": [
+      "ハ"
+    ],
+    "kunyomi": [
+      "やぶ.る",
+      "やぶ.れる",
+      "わ.れる"
+    ],
+    "meanings": [
+      "break",
+      "defeat",
+      "destroy",
+      "frustrate",
+      "rend",
+      "rip",
+      "tear"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "確",
+    "onyomi": [
+      "カク",
+      "コウ"
+    ],
+    "kunyomi": [
+      "たし.か",
+      "たし.かめる"
+    ],
+    "meanings": [
+      "assurance",
+      "clear",
+      "confirm",
+      "evident",
+      "firm",
+      "hard",
+      "solid",
+      "tight"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "示",
+    "onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "しめ.す"
+    ],
+    "meanings": [
+      "display",
+      "express",
+      "indicate",
+      "point out",
+      "show"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "礼",
+    "onyomi": [
+      "ライ",
+      "レイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "bow",
+      "ceremony",
+      "remuneration",
+      "salute",
+      "thanks"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "祖",
+    "onyomi": [
+      "ソ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "ancestor",
+      "founder",
+      "pioneer"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "神",
+    "onyomi": [
+      "シン",
+      "ジン"
+    ],
+    "kunyomi": [
+      "かみ",
+      "かん-",
+      "こう-"
+    ],
+    "meanings": [
+      "gods",
+      "mind",
+      "soul"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "福",
+    "onyomi": [
+      "フク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "blessing",
+      "fortune",
+      "luck",
+      "wealth"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "科",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "course",
+      "department",
+      "section"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "程",
+    "onyomi": [
+      "テイ"
+    ],
+    "kunyomi": [
+      "-ほど",
+      "ほど"
+    ],
+    "meanings": [
+      "amount",
+      "degree",
+      "distance",
+      "extent",
+      "formula",
+      "law",
+      "limits"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "種",
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "-ぐさ",
+      "たね"
+    ],
+    "meanings": [
+      "class",
+      "kind",
+      "seed",
+      "species",
+      "variety"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "積",
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "-づ.み",
+      "つ.む",
+      "つ.もり",
+      "つ.もる"
+    ],
+    "meanings": [
+      "acreage",
+      "amass",
+      "contents",
+      "load",
+      "pile up",
+      "product (x*y)",
+      "stack",
+      "volume"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "突",
+    "onyomi": [
+      "カ",
+      "トツ"
+    ],
+    "kunyomi": [
+      "つ.く"
+    ],
+    "meanings": [
+      "collision",
+      "pierce",
+      "prick",
+      "protruding",
+      "stab",
+      "sudden",
+      "thrust"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "窓",
+    "onyomi": [
+      "ス",
+      "ソウ"
+    ],
+    "kunyomi": [
+      "けむだし",
+      "てんまど",
+      "まど"
+    ],
+    "meanings": [
+      "pane",
+      "window"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "笑",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "え.む",
+      "わら.う"
+    ],
+    "meanings": [
+      "laugh"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "等",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "-ら",
+      "など",
+      "ひと.しい"
+    ],
+    "meanings": [
+      "and so forth",
+      "class (first)",
+      "equal",
+      "etc.",
+      "quality",
+      "similar"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "箱",
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はこ"
+    ],
+    "meanings": [
+      "bin",
+      "box",
+      "case",
+      "chest",
+      "railway car"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "米",
+    "onyomi": [
+      "ベイ",
+      "マイ",
+      "メエトル"
+    ],
+    "kunyomi": [
+      "こめ",
+      "よね"
+    ],
+    "meanings": [
+      "USA",
+      "metre",
+      "rice"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "精",
+    "onyomi": [
+      "ショウ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "くわ.しい",
+      "しら.げる"
+    ],
+    "meanings": [
+      "energy",
+      "excellence",
+      "fairy",
+      "ghost",
+      "purity",
+      "refined",
+      "semen",
+      "skill",
+      "vitality"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "約",
+    "onyomi": [
+      "ヤク"
+    ],
+    "kunyomi": [
+      "つづ.まる",
+      "つづ.める",
+      "つづま.やか"
+    ],
+    "meanings": [
+      "approximately",
+      "promise",
+      "shrink"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "組",
+    "onyomi": [
+      "ソ"
+    ],
+    "kunyomi": [
+      "-ぐみ",
+      "く.む",
+      "くみ"
+    ],
+    "meanings": [
+      "assemble",
+      "association",
+      "braid",
+      "construct",
+      "cooperate",
+      "grapple",
+      "plait",
+      "unite"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "経",
+    "onyomi": [
+      "キョウ",
+      "キン",
+      "ケイ"
+    ],
+    "kunyomi": [
+      "た.つ",
+      "たていと",
+      "のり",
+      "はか.る",
+      "へ.る"
+    ],
+    "meanings": [
+      "expire",
+      "longitude",
+      "pass thru",
+      "sutra",
+      "warp"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "給",
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "-たま.え",
+      "たま.う",
+      "たも.う"
+    ],
+    "meanings": [
+      "allow",
+      "bestow on",
+      "gift",
+      "grant",
+      "salary",
+      "wage"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "絵",
+    "onyomi": [
+      "エ",
+      "カイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "drawing",
+      "painting",
+      "picture",
+      "sketch"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "絶",
+    "onyomi": [
+      "ゼツ"
+    ],
+    "kunyomi": [
+      "た.える",
+      "た.つ",
+      "た.やす"
+    ],
+    "meanings": [
+      "abstain",
+      "be beyond",
+      "cut off",
+      "discontinue",
+      "interrupt",
+      "peerless",
+      "sever",
+      "suppress",
+      "unparalleled",
+      "without match"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "続",
+    "onyomi": [
+      "キョウ",
+      "コウ",
+      "ショク",
+      "ゾク"
+    ],
+    "kunyomi": [
+      "つぐ.ない",
+      "つづ.く",
+      "つづ.ける"
+    ],
+    "meanings": [
+      "continue",
+      "sequel",
+      "series"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "緒",
+    "onyomi": [
+      "ショ",
+      "チョ"
+    ],
+    "kunyomi": [
+      "いとぐち",
+      "お"
+    ],
+    "meanings": [
+      "beginning",
+      "cord",
+      "end",
+      "inception",
+      "mental or emotional state",
+      "strap",
+      "thong"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "罪",
+    "onyomi": [
+      "ザイ"
+    ],
+    "kunyomi": [
+      "つみ"
+    ],
+    "meanings": [
+      "blame",
+      "crime",
+      "fault",
+      "guilt",
+      "offense",
+      "sin"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "置",
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "-お.き",
+      "お.く"
+    ],
+    "meanings": [
+      "deposit",
+      "employ",
+      "keep",
+      "leave behind",
+      "pawn",
+      "placement",
+      "put",
+      "set"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "美",
+    "onyomi": [
+      "ビ",
+      "ミ"
+    ],
+    "kunyomi": [
+      "うつく.しい"
+    ],
+    "meanings": [
+      "beautiful",
+      "beauty"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "老",
+    "onyomi": [
+      "ロウ"
+    ],
+    "kunyomi": [
+      "お.いる",
+      "ふ.ける"
+    ],
+    "meanings": [
+      "grow old",
+      "old age",
+      "old man"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "耳",
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "みみ"
+    ],
+    "meanings": [
+      "ear"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "職",
+    "onyomi": [
+      "ショク",
+      "ソク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "employment",
+      "post",
+      "work"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "育",
+    "onyomi": [
+      "イク"
+    ],
+    "kunyomi": [
+      "そだ.ち",
+      "そだ.つ",
+      "そだ.てる",
+      "はぐく.む"
+    ],
+    "meanings": [
+      "bring up",
+      "grow up",
+      "raise",
+      "rear"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "背",
+    "onyomi": [
+      "ハイ"
+    ],
+    "kunyomi": [
+      "せ",
+      "せい",
+      "そむ.く",
+      "そむ.ける"
+    ],
+    "meanings": [
+      "back",
+      "behind",
+      "defy",
+      "disobey",
+      "go back on",
+      "height",
+      "rebel",
+      "stature"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "能",
+    "onyomi": [
+      "ノウ"
+    ],
+    "kunyomi": [
+      "あた.う",
+      "よ.く"
+    ],
+    "meanings": [
+      "ability",
+      "capacity",
+      "skill",
+      "talent"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "腹",
+    "onyomi": [
+      "フク"
+    ],
+    "kunyomi": [
+      "はら"
+    ],
+    "meanings": [
+      "abdomen",
+      "belly",
+      "stomach"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "舞",
+    "onyomi": [
+      "ブ"
+    ],
+    "kunyomi": [
+      "-ま.う",
+      "ま.う",
+      "まい"
+    ],
+    "meanings": [
+      "circle",
+      "dance",
+      "flit",
+      "wheel"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "船",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "ふな-",
+      "ふね"
+    ],
+    "meanings": [
+      "boat",
+      "ship"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "良",
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "-い.い",
+      "-よ.い",
+      "い.い",
+      "よ.い"
+    ],
+    "meanings": [
+      "good",
+      "pleasing",
+      "skilled"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "若",
+    "onyomi": [
+      "ジャク",
+      "ニャ",
+      "ニャク"
+    ],
+    "kunyomi": [
+      "ごと.し",
+      "も.し",
+      "も.しくは",
+      "も.しくわ",
+      "わか-",
+      "わか.い"
+    ],
+    "meanings": [
+      "if",
+      "immature",
+      "low number",
+      "perhaps",
+      "possibly",
+      "young"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "苦",
+    "onyomi": [
+      "ク"
+    ],
+    "kunyomi": [
+      "-ぐる.しい",
+      "くる.しい",
+      "くる.しむ",
+      "くる.しめる",
+      "にが.い",
+      "にが.る"
+    ],
+    "meanings": [
+      "feel bitter",
+      "hardship",
+      "scowl",
+      "suffering",
+      "trial",
+      "worry"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "草",
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "-ぐさ",
+      "くさ",
+      "くさ-"
+    ],
+    "meanings": [
+      "draft",
+      "grass",
+      "herbs",
+      "pasture",
+      "weeds",
+      "write"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "落",
+    "onyomi": [
+      "ラク"
+    ],
+    "kunyomi": [
+      "お.ち",
+      "お.ちる",
+      "お.とす"
+    ],
+    "meanings": [
+      "come down",
+      "drop",
+      "fall",
+      "hamlet",
+      "village"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "葉",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "は"
+    ],
+    "meanings": [
+      "blade",
+      "counter for flat things",
+      "fragment",
+      "leaf",
+      "lobe",
+      "needle",
+      "piece",
+      "plane",
+      "spear"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "薬",
+    "onyomi": [
+      "ヤク"
+    ],
+    "kunyomi": [
+      "くすり"
+    ],
+    "meanings": [
+      "benefit",
+      "chemical",
+      "enamel",
+      "gunpowder",
+      "medicine"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "術",
+    "onyomi": [
+      "ジュツ"
+    ],
+    "kunyomi": [
+      "すべ"
+    ],
+    "meanings": [
+      "art",
+      "magic",
+      "means",
+      "resources",
+      "skill",
+      "technique",
+      "trick"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "表",
+    "onyomi": [
+      "ヒョウ"
+    ],
+    "kunyomi": [
+      "-おもて",
+      "あら.わす",
+      "あらわ.す",
+      "あらわ.れる",
+      "おもて"
+    ],
+    "meanings": [
+      "chart",
+      "diagram",
+      "surface",
+      "table"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "要",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "い.る",
+      "かなめ"
+    ],
+    "meanings": [
+      "essence",
+      "key to",
+      "main point",
+      "need",
+      "pivot"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "規",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "measure",
+      "standard"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "覚",
+    "onyomi": [
+      "カク"
+    ],
+    "kunyomi": [
+      "おぼ.える",
+      "さ.ます",
+      "さ.める",
+      "さと.る"
+    ],
+    "meanings": [
+      "awake",
+      "learn",
+      "memorize",
+      "remember",
+      "sober up"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "観",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "しめ.す",
+      "み.る"
+    ],
+    "meanings": [
+      "appearance",
+      "condition",
+      "look",
+      "outlook",
+      "view"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "解",
+    "onyomi": [
+      "カイ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "さと.る",
+      "と.かす",
+      "と.く",
+      "と.ける",
+      "ほど.く",
+      "ほど.ける",
+      "わか.る"
+    ],
+    "meanings": [
+      "absolve",
+      "answer",
+      "cancel",
+      "explain",
+      "explanation",
+      "key",
+      "minute",
+      "notes",
+      "solve",
+      "understanding",
+      "undo",
+      "unravel",
+      "untie"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "記",
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "しる.す"
+    ],
+    "meanings": [
+      "account",
+      "narrative",
+      "scribe"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "訪",
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "おとず.れる",
+      "たず.ねる",
+      "と.う"
+    ],
+    "meanings": [
+      "call on",
+      "look up",
+      "offer sympathy",
+      "visit"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "許",
+    "onyomi": [
+      "キョ"
+    ],
+    "kunyomi": [
+      "もと",
+      "ゆる.す"
+    ],
+    "meanings": [
+      "approve",
+      "permit"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "認",
+    "onyomi": [
+      "ニン"
+    ],
+    "kunyomi": [
+      "したた.める",
+      "みと.める"
+    ],
+    "meanings": [
+      "acknowledge",
+      "appreciate",
+      "believe",
+      "discern",
+      "recognize",
+      "witness"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "誤",
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "-あやま.る",
+      "あやま.る"
+    ],
+    "meanings": [
+      "do wrong",
+      "err",
+      "mislead",
+      "mistake"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "説",
+    "onyomi": [
+      "セツ",
+      "ゼイ"
+    ],
+    "kunyomi": [
+      "と.く"
+    ],
+    "meanings": [
+      "explanation",
+      "opinion",
+      "rumor",
+      "theory"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "調",
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "しら.べ",
+      "しら.べる",
+      "ととの.う",
+      "ととの.える"
+    ],
+    "meanings": [
+      "exorcise",
+      "harmonize",
+      "investigate",
+      "key (music)",
+      "mediate",
+      "meter",
+      "prepare",
+      "tone",
+      "tune",
+      "writing style"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "談",
+    "onyomi": [
+      "ダン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "discuss",
+      "talk"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "論",
+    "onyomi": [
+      "ロン"
+    ],
+    "kunyomi": [
+      "あげつら.う"
+    ],
+    "meanings": [
+      "argument",
+      "discourse"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "識",
+    "onyomi": [
+      "シキ"
+    ],
+    "kunyomi": [
+      "し.る",
+      "しる.す"
+    ],
+    "meanings": [
+      "discriminating",
+      "know",
+      "write"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "警",
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "いまし.める"
+    ],
+    "meanings": [
+      "admonish",
+      "commandment"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "議",
+    "onyomi": [
+      "ギ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "consideration",
+      "consultation",
+      "debate",
+      "deliberation"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "負",
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "お.う",
+      "ま.かす",
+      "ま.ける"
+    ],
+    "meanings": [
+      "-",
+      "assume a responsibility",
+      "bear",
+      "defeat",
+      "minus",
+      "negative",
+      "owe"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "財",
+    "onyomi": [
+      "サイ",
+      "ザイ",
+      "ゾク"
+    ],
+    "kunyomi": [
+      "たから"
+    ],
+    "meanings": [
+      "assets",
+      "money",
+      "property",
+      "wealth"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "貧",
+    "onyomi": [
+      "ヒン",
+      "ビン"
+    ],
+    "kunyomi": [
+      "まず.しい"
+    ],
+    "meanings": [
+      "poor",
+      "poverty"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "責",
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "せ.める"
+    ],
+    "meanings": [
+      "blame",
+      "censure",
+      "condemn"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "費",
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "つい.える",
+      "つい.やす"
+    ],
+    "meanings": [
+      "consume",
+      "cost",
+      "expense",
+      "spend",
+      "waste"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "資",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "assets",
+      "be conducive to",
+      "capital",
+      "contribute to",
+      "data",
+      "funds",
+      "resources"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "賛",
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "たす.ける",
+      "たた.える"
+    ],
+    "meanings": [
+      "agree with",
+      "approve",
+      "assist",
+      "praise",
+      "title or inscription on picture"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "越",
+    "onyomi": [
+      "エツ",
+      "オツ"
+    ],
+    "kunyomi": [
+      "-こ.す",
+      "-ご.え",
+      "-ご.し",
+      "こ.える",
+      "こ.す"
+    ],
+    "meanings": [
+      "Vietnam",
+      "cross over",
+      "exceed",
+      "move to",
+      "surpass"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "路",
+    "onyomi": [
+      "ル",
+      "ロ"
+    ],
+    "kunyomi": [
+      "-じ",
+      "みち"
+    ],
+    "meanings": [
+      "distance",
+      "path",
+      "road",
+      "route"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "辞",
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "いな.む",
+      "や.める"
+    ],
+    "meanings": [
+      "expression",
+      "resign",
+      "term",
+      "word"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "込",
+    "onyomi": [],
+    "kunyomi": [
+      "-こ.み",
+      "-こ.む",
+      "こ.み",
+      "こ.む",
+      "こ.める"
+    ],
+    "meanings": [
+      "(kokuji)",
+      "crowded",
+      "in bulk",
+      "included",
+      "mixture"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "迎",
+    "onyomi": [
+      "ゲイ"
+    ],
+    "kunyomi": [
+      "むか.える"
+    ],
+    "meanings": [
+      "greet",
+      "meet",
+      "welcome"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "返",
+    "onyomi": [
+      "ヘン"
+    ],
+    "kunyomi": [
+      "-かえ.す",
+      "-かえ.る",
+      "かえ.す",
+      "かえ.る"
+    ],
+    "meanings": [
+      "answer",
+      "fade",
+      "repay",
+      "return"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "迷",
+    "onyomi": [
+      "メイ"
+    ],
+    "kunyomi": [
+      "まよ.う"
+    ],
+    "meanings": [
+      "astray",
+      "be perplexed",
+      "err",
+      "illusion",
+      "in doubt",
+      "lost"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "追",
+    "onyomi": [
+      "ツイ"
+    ],
+    "kunyomi": [
+      "お.う"
+    ],
+    "meanings": [
+      "chase",
+      "drive away",
+      "follow",
+      "meanwhile",
+      "pursue"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "退",
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "しりぞ.く",
+      "しりぞ.ける",
+      "ど.く",
+      "の.く",
+      "の.ける",
+      "ひ.く"
+    ],
+    "meanings": [
+      "expel",
+      "reject",
+      "repel",
+      "resign",
+      "retire",
+      "retreat",
+      "withdraw"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "逃",
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "に.がす",
+      "に.げる",
+      "のが.す",
+      "のが.れる"
+    ],
+    "meanings": [
+      "escape",
+      "evade",
+      "flee",
+      "set free",
+      "shirk"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "途",
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "みち"
+    ],
+    "meanings": [
+      "road",
+      "route",
+      "way"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "速",
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "すみ.やか",
+      "はや-",
+      "はや.い",
+      "はや.める"
+    ],
+    "meanings": [
+      "fast",
+      "quick"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "連",
+    "onyomi": [
+      "レン"
+    ],
+    "kunyomi": [
+      "-づ.れ",
+      "つ.れる",
+      "つら.なる",
+      "つら.ねる"
+    ],
+    "meanings": [
+      "clique",
+      "connect",
+      "gang",
+      "join",
+      "lead",
+      "party",
+      "take along"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "進",
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "すす.む",
+      "すす.める"
+    ],
+    "meanings": [
+      "advance",
+      "proceed",
+      "progress",
+      "promote"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "遅",
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "おく.らす",
+      "おく.れる",
+      "おそ.い"
+    ],
+    "meanings": [
+      "back",
+      "late",
+      "later",
+      "slow"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "遊",
+    "onyomi": [
+      "ユ",
+      "ユウ"
+    ],
+    "kunyomi": [
+      "あそ.ばす",
+      "あそ.ぶ"
+    ],
+    "meanings": [
+      "play"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "過",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "あやま.ち",
+      "あやま.つ",
+      "す.ぎる",
+      "す.ごす",
+      "よ.ぎる",
+      "よぎ.る"
+    ],
+    "meanings": [
+      "error",
+      "exceed",
+      "go beyond",
+      "overdo"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "達",
+    "onyomi": [
+      "タツ",
+      "ダ"
+    ],
+    "kunyomi": [
+      "-たち"
+    ],
+    "meanings": [
+      "accomplished",
+      "arrive",
+      "attain",
+      "reach"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "違",
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "-ちが.える",
+      "たが.う",
+      "たが.える",
+      "ちが.い",
+      "ちが.う",
+      "ちが.える"
+    ],
+    "meanings": [
+      "differ",
+      "difference"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "遠",
+    "onyomi": [
+      "エン",
+      "オン"
+    ],
+    "kunyomi": [
+      "とお.い"
+    ],
+    "meanings": [
+      "distant",
+      "far"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "適",
+    "onyomi": [
+      "テキ"
+    ],
+    "kunyomi": [
+      "かな.う"
+    ],
+    "meanings": [
+      "capable",
+      "occasional",
+      "qualified",
+      "rare",
+      "suitable"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "選",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "え.る",
+      "えら.ぶ",
+      "よ.る"
+    ],
+    "meanings": [
+      "choose",
+      "elect",
+      "prefer",
+      "select"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "部",
+    "onyomi": [
+      "ブ"
+    ],
+    "kunyomi": [
+      "-べ"
+    ],
+    "meanings": [
+      "bureau",
+      "class",
+      "copy",
+      "counter for copies of a newspaper or magazine",
+      "dept",
+      "part",
+      "portion",
+      "section"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "都",
+    "onyomi": [
+      "ツ",
+      "ト"
+    ],
+    "kunyomi": [
+      "みやこ"
+    ],
+    "meanings": [
+      "all",
+      "capital",
+      "everything",
+      "metropolis"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "配",
+    "onyomi": [
+      "ハイ"
+    ],
+    "kunyomi": [
+      "くば.る"
+    ],
+    "meanings": [
+      "distribute",
+      "exile",
+      "rationing",
+      "spouse"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "酒",
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "さか-",
+      "さけ"
+    ],
+    "meanings": [
+      "alcohol",
+      "sake"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "閉",
+    "onyomi": [
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "し.まる",
+      "し.める",
+      "た.てる",
+      "と.ざす",
+      "と.じる"
+    ],
+    "meanings": [
+      "closed",
+      "shut"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "関",
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "-ぜき",
+      "かか.わる",
+      "からくり",
+      "かんぬき",
+      "せき"
+    ],
+    "meanings": [
+      "barrier",
+      "concerning",
+      "connection",
+      "gateway",
+      "involve"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "降",
+    "onyomi": [
+      "コウ",
+      "ゴ"
+    ],
+    "kunyomi": [
+      "お.りる",
+      "お.ろす",
+      "くだ.す",
+      "くだ.る",
+      "ふ.り",
+      "ふ.る"
+    ],
+    "meanings": [
+      "descend",
+      "fall",
+      "precipitate",
+      "surrender"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "限",
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "-かぎ.り",
+      "かぎ.り",
+      "かぎ.る"
+    ],
+    "meanings": [
+      "limit",
+      "restrict",
+      "to best of ability"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "除",
+    "onyomi": [
+      "ジ",
+      "ジョ"
+    ],
+    "kunyomi": [
+      "-よ.け",
+      "のぞ.く"
+    ],
+    "meanings": [
+      "abolish",
+      "cancel",
+      "division (x/3)",
+      "except",
+      "exclude",
+      "remove"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "険",
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "けわ.しい"
+    ],
+    "meanings": [
+      "impregnable position",
+      "inaccessible place",
+      "precipitous",
+      "sharp eyes",
+      "steep place"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "陽",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "ひ"
+    ],
+    "meanings": [
+      "daytime",
+      "heaven",
+      "male",
+      "positive",
+      "sunshine",
+      "yang principle"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "際",
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [
+      "-ぎわ",
+      "きわ"
+    ],
+    "meanings": [
+      "adventurous",
+      "dangerous",
+      "edge",
+      "indecent",
+      "occasion",
+      "side",
+      "time",
+      "verge",
+      "when"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "雑",
+    "onyomi": [
+      "ザツ",
+      "ゾウ"
+    ],
+    "kunyomi": [
+      "まじ.える",
+      "まじ.る"
+    ],
+    "meanings": [
+      "miscellaneous"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "難",
+    "onyomi": [
+      "ナン"
+    ],
+    "kunyomi": [
+      "-がた.い",
+      "-にく.い",
+      "かた.い",
+      "むずか.しい",
+      "むつか.しい",
+      "むづか.しい"
+    ],
+    "meanings": [
+      "accident",
+      "defect",
+      "difficult",
+      "impossible",
+      "trouble"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "雪",
+    "onyomi": [
+      "セツ"
+    ],
+    "kunyomi": [
+      "ゆき"
+    ],
+    "meanings": [
+      "snow"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "静",
+    "onyomi": [
+      "ジョウ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "しず-",
+      "しず.か",
+      "しず.まる",
+      "しず.める"
+    ],
+    "meanings": [
+      "quiet"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "非",
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "あら.ず"
+    ],
+    "meanings": [
+      "injustice",
+      "mistake",
+      "negative",
+      "non-",
+      "un-"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "面",
+    "onyomi": [
+      "ベン",
+      "メン"
+    ],
+    "kunyomi": [
+      "おも",
+      "おもて",
+      "つら"
+    ],
+    "meanings": [
+      "face",
+      "features",
+      "mask",
+      "surface"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "靴",
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "くつ"
+    ],
+    "meanings": [
+      "shoes"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "頂",
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "いただ.く",
+      "いただき"
+    ],
+    "meanings": [
+      "peak",
+      "place on the head",
+      "receive",
+      "summit",
+      "top",
+      "top of head"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "頭",
+    "onyomi": [
+      "ズ",
+      "ト",
+      "トウ"
+    ],
+    "kunyomi": [
+      "-がしら",
+      "あたま",
+      "かしら",
+      "かぶり"
+    ],
+    "meanings": [
+      "counter for large animals",
+      "head"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "頼",
+    "onyomi": [
+      "ライ"
+    ],
+    "kunyomi": [
+      "たの.む",
+      "たの.もしい",
+      "たよ.る"
+    ],
+    "meanings": [
+      "request",
+      "trust"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "顔",
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "かお"
+    ],
+    "meanings": [
+      "expression",
+      "face"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "願",
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "-ねがい",
+      "ねが.う"
+    ],
+    "meanings": [
+      "hope",
+      "petition",
+      "request",
+      "vow",
+      "wish"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "類",
+    "onyomi": [
+      "ルイ"
+    ],
+    "kunyomi": [
+      "たぐ.い"
+    ],
+    "meanings": [
+      "class",
+      "genus",
+      "kind",
+      "sort",
+      "variety"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "飛",
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "-と.ばす",
+      "と.ばす",
+      "と.ぶ"
+    ],
+    "meanings": [
+      "fly",
+      "scatter",
+      "skip (pages)"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "首",
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "くび"
+    ],
+    "meanings": [
+      "counter for songs and poems",
+      "neck"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "馬",
+    "onyomi": [
+      "バ"
+    ],
+    "kunyomi": [
+      "うま",
+      "うま-",
+      "ま"
+    ],
+    "meanings": [
+      "horse"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "髪",
+    "onyomi": [
+      "ハツ"
+    ],
+    "kunyomi": [
+      "かみ"
+    ],
+    "meanings": [
+      "hair of the head"
+    ],
+    "jlpt": "N3"
+  },
+  {
+    "kanji": "鳴",
+    "onyomi": [
+      "メイ"
+    ],
+    "kunyomi": [
+      "な.く",
+      "な.らす",
+      "な.る"
+    ],
+    "meanings": [
+      "bark",
+      "chirp",
+      "cry",
+      "echo",
+      "honk",
+      "ring",
+      "sound"
+    ],
+    "jlpt": "N3"
+  }
+]
