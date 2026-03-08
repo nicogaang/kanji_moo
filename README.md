@@ -1,16 +1,62 @@
-# kanji_moo
+# KanjiMoo
 
-A new Flutter project.
+KanjiMoo is a clean JLPT kanji flashcard app built with Flutter for studying **N5, N4, and N3** offline.
+
+## Features
+
+- Local-only kanji study
+- JLPT levels N5, N4, and N3
+- Vertical flashcard deck experience
+- Save last selected level
+- Save last viewed card per level
+- Simple settings for study visibility
+
+## Tech Stack
+
+- Flutter
+- Riverpod
+- Hive
+
+## Project Structure
+
+```text
+lib/
+  app/
+  core/
+  features/
+    home/
+    kanji_deck/
+    splash/
+```
+
+## Assets
+
+Kanji data is stored locally in:
+
+```text
+assets/kanji/
+```
+
+Image assets are stored in:
+
+```text
+assets/images/
+```
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install Flutter
+2. Run `flutter pub get`
+3. Run `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Current Version Scope
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Version 1 includes:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- N5
+- N4
+- N3
+
+## Notes
+
+This project is currently focused on mobile app release preparation.
