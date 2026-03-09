@@ -16,7 +16,6 @@ final kanjiDeckControllerProvider = NotifierProvider<KanjiDeckController, KanjiD
 class KanjiDeckController extends Notifier<KanjiDeckState> {
   static const _boxName = 'kanji_deck';
   static const _kSelectedLevel = 'selected_level';
-  static const _kLastIndexByLevel = 'last_index_by_level';
 
   Future<Box<dynamic>>? _boxFuture;
 
@@ -45,24 +44,23 @@ class KanjiDeckController extends Notifier<KanjiDeckState> {
     // Persist selected level
     await box.put(_kSelectedLevel, level.label);
 
-    // Restore last index for this level
-    final map = _readIndexMap(box);
-    final restoredIndex = map[level.label] ?? 0;
-
-    state = state.copyWith(level: level, initialIndex: restoredIndex, status: DeckStatus.loading, cards: const []);
+    state = state.copyWith(level: level, initialIndex: 0, status: DeckStatus.loading, cards: const []);
 
     await _load(level);
   }
 
-  Future<void> setLastSeenIndex(int index) async {
+  void setLastSeenIndex(int index) {
     if (state.initialIndex == index) return;
 
     state = state.copyWith(initialIndex: index);
+  }
 
-    final box = await _box();
-    final map = _readIndexMap(box);
-    map[state.level.label] = index;
-    await box.put(_kLastIndexByLevel, map);
+  void reshuffleCurrentDeck() {
+    if (state.cards.isEmpty) return;
+
+    final reshuffled = [...state.cards]..shuffle();
+
+    state = state.copyWith(cards: reshuffled, initialIndex: 0);
   }
 
   Future<void> _restoreAndLoad() async {
@@ -72,41 +70,18 @@ class KanjiDeckController extends Notifier<KanjiDeckState> {
     final saved = box.get(_kSelectedLevel);
     final restoredLevel = saved is String ? JlptLevelX.fromLabel(saved) : JlptLevel.n5;
 
-    // Restore last index map and pick index for selected level
-    final map = _readIndexMap(box);
-    final restoredIndex = map[restoredLevel.label] ?? 0;
-
-    state = state.copyWith(
-      level: restoredLevel,
-      initialIndex: restoredIndex,
-      status: DeckStatus.loading,
-      cards: const [],
-    );
+    state = state.copyWith(level: restoredLevel, initialIndex: 0, status: DeckStatus.loading, cards: const []);
 
     await _load(restoredLevel);
-  }
-
-  Map<String, int> _readIndexMap(Box<dynamic> box) {
-    final raw = box.get(_kLastIndexByLevel);
-    final map = <String, int>{};
-
-    if (raw is Map) {
-      for (final entry in raw.entries) {
-        final k = entry.key;
-        final v = entry.value;
-        if (k is String && v is int) {
-          map[k] = v;
-        }
-      }
-    }
-    return map;
   }
 
   Future<void> _load(JlptLevel level) async {
     try {
       final repo = ref.read(kanjiDeckRepositoryProvider);
       final cards = await repo.fetchDeck(level);
-      state = state.copyWith(status: DeckStatus.ready, cards: cards);
+      final shuffledCards = [...cards]..shuffle();
+
+      state = state.copyWith(status: DeckStatus.ready, cards: shuffledCards, initialIndex: 0);
     } catch (e) {
       state = state.copyWith(status: DeckStatus.error, errorMessage: e.toString(), cards: const []);
     }

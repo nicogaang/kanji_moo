@@ -1,0 +1,19 @@
+{
+  "kanji_tips": [
+    { "id": 1, "tip": "Write the kanji 10 times on paper. Muscle memory helps recall." },
+    { "id": 2, "tip": "Study only 5–10 kanji per day. Small sets are easier to remember." },
+    { "id": 3, "tip": "Say the reading out loud while looking at the kanji." },
+    { "id": 4, "tip": "Create a small story for the kanji shape." },
+    { "id": 5, "tip": "Link the kanji with a word you already know." },
+    { "id": 6, "tip": "Review yesterday’s kanji before learning new ones." },
+    { "id": 7, "tip": "Look for the radicals inside the kanji." },
+    { "id": 8, "tip": "Write the kanji while saying its meaning." },
+    { "id": 9, "tip": "Try to remember the kanji without looking after a few minutes." },
+    { "id": 10, "tip": "Use the kanji in a simple word or sentence." },
+    { "id": 11, "tip": "Imagine a picture that matches the kanji meaning." },
+    { "id": 12, "tip": "Study a little every day instead of studying a lot at once." },
+    { "id": 13, "tip": "Test yourself before checking the answer." },
+    { "id": 14, "tip": "Group similar kanji together to notice the differences." },
+    { "id": 15, "tip": "Practice writing from memory, not just copying." }
+  ]
+}

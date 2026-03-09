@@ -5,6 +5,7 @@ import 'package:kanji_moo/features/kanji_deck/data/models/jlpt_level.dart';
 import '../../application/kanji_deck_controller.dart';
 import '../../application/kanji_deck_state.dart';
 import '../widgets/kanji_card_view.dart';
+import '../dialogs/kanji_tip_dialog.dart';
 
 class DeckView extends ConsumerWidget {
   const DeckView({super.key, required this.state, required this.pageController});
@@ -24,12 +25,22 @@ class DeckView extends ConsumerWidget {
       itemCount: state.cards.length,
       itemBuilder: (context, index) {
         final card = state.cards[index];
+        final isLastCard = index == state.cards.length - 1;
 
         final child = KanjiCardView(
           key: ValueKey('${state.level.label}:${card.kanji}'),
           card: card,
           showReadings: state.showReadings,
           showMeanings: state.showMeanings,
+          isLastCard: isLastCard,
+          onShuffleAgain: () async {
+            await openKanjiTipDialog(
+              context,
+              onConfirmed: () {
+                ref.read(kanjiDeckControllerProvider.notifier).reshuffleCurrentDeck();
+              },
+            );
+          },
         );
 
         return AnimatedBuilder(

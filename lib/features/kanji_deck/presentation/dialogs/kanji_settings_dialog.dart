@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../../../core/theme/theme_settings_controller.dart';
@@ -56,43 +57,98 @@ void openKanjiSettingsDialog(BuildContext context) {
                           onChanged: (v) => notifier.setShowMeanings(v ?? false),
                         ),
                       ),
-
-                      const Divider(height: 24),
-
-                      SettingsRow(
-                        title: 'Report a problem',
-                        trailing: const Icon(Icons.report_problem),
-                        onTap: () async {
-                          final uri = Uri(
-                            scheme: 'mailto',
-                            path: 'support@higaladev.com',
-                            queryParameters: const {'subject': 'Kanjimoo Problem Report'},
-                          );
-
-                          try {
-                            final ok = await launchUrl(uri, mode: LaunchMode.externalApplication);
-                            if (!ok && context.mounted) {
-                              ScaffoldMessenger.of(
-                                context,
-                              ).showSnackBar(const SnackBar(content: Text('Unable to open email app.')));
-                            }
-                          } catch (_) {
-                            if (!context.mounted) return;
-                            ScaffoldMessenger.of(
-                              context,
-                            ).showSnackBar(const SnackBar(content: Text('Unable to open email app.')));
+                      FutureBuilder<Box<dynamic>>(
+                        future: Hive.openBox<dynamic>('app_settings'),
+                        builder: (context, snapshot) {
+                          if (!snapshot.hasData) {
+                            return const SizedBox.shrink();
                           }
+
+                          final box = snapshot.data!;
+
+                          return ValueListenableBuilder(
+                            valueListenable: box.listenable(keys: const ['show_learning_tips']),
+                            builder: (context, _, __) {
+                              final raw = box.get('show_learning_tips');
+                              final showTips = raw is bool ? raw : true;
+
+                              return SettingsRow(
+                                title: 'Show learning tips',
+                                trailing: Switch(
+                                  value: showTips,
+                                  onChanged: (value) async {
+                                    await box.put('show_learning_tips', value);
+                                  },
+                                ),
+                              );
+                            },
+                          );
                         },
                       ),
+
                       const Divider(height: 24),
 
-                      SettingsRow(
-                        title: 'About the app',
-                        trailing: const CircleAvatar(radius: 14, child: Icon(Icons.question_mark, size: 16)),
-                        onTap: () {
-                          Navigator.of(dialogContext).pop();
-                          openAboutAppDialog(context);
-                        },
+                      Row(
+                        children: [
+                          Expanded(
+                            child: InkWell(
+                              borderRadius: BorderRadius.circular(12),
+                              onTap: () async {
+                                final uri = Uri(
+                                  scheme: 'mailto',
+                                  path: 'support@higaladev.com',
+                                  queryParameters: const {'subject': 'Kanjimoo Problem Report'},
+                                );
+
+                                try {
+                                  final ok = await launchUrl(uri, mode: LaunchMode.externalApplication);
+                                  if (!ok && context.mounted) {
+                                    ScaffoldMessenger.of(
+                                      context,
+                                    ).showSnackBar(const SnackBar(content: Text('Unable to open email app.')));
+                                  }
+                                } catch (_) {
+                                  if (!context.mounted) return;
+                                  ScaffoldMessenger.of(
+                                    context,
+                                  ).showSnackBar(const SnackBar(content: Text('Unable to open email app.')));
+                                }
+                              },
+                              child: Padding(
+                                padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 8),
+                                child: Row(
+                                  children: [
+                                    const Icon(Icons.report_problem_outlined, size: 18),
+                                    const SizedBox(width: 8),
+                                    Expanded(child: Text('Report', style: Theme.of(context).textTheme.bodySmall)),
+                                  ],
+                                ),
+                              ),
+                            ),
+                          ),
+                          const SizedBox(width: 8),
+                          Expanded(
+                            child: InkWell(
+                              borderRadius: BorderRadius.circular(12),
+                              onTap: () {
+                                Navigator.of(dialogContext).pop();
+                                openAboutAppDialog(context);
+                              },
+                              child: Padding(
+                                padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 8),
+                                child: Row(
+                                  children: [
+                                    const Icon(Icons.info_outline, size: 18),
+                                    const SizedBox(width: 8),
+                                    Expanded(
+                                      child: Text('About the app', style: Theme.of(context).textTheme.bodySmall),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                            ),
+                          ),
+                        ],
                       ),
 
                       const SizedBox(height: 8),

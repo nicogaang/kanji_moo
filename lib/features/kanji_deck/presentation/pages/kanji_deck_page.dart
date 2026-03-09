@@ -19,6 +19,20 @@ class KanjiDeckPage extends ConsumerStatefulWidget {
 
 class _KanjiDeckPageState extends ConsumerState<KanjiDeckPage> {
   final _pageController = PageController();
+  int _currentIndex = 0;
+
+  @override
+  void initState() {
+    super.initState();
+    _pageController.addListener(() {
+      if (!_pageController.hasClients) return;
+      final page = _pageController.page?.round() ?? 0;
+      if (page == _currentIndex) return;
+      setState(() {
+        _currentIndex = page;
+      });
+    });
+  }
 
   @override
   void dispose() {
@@ -35,6 +49,14 @@ class _KanjiDeckPageState extends ConsumerState<KanjiDeckPage> {
 
       final current = (_pageController.page ?? _pageController.initialPage).round();
       final target = next.initialIndex;
+      if (_currentIndex != target) {
+        WidgetsBinding.instance.addPostFrameCallback((_) {
+          if (!mounted) return;
+          setState(() {
+            _currentIndex = target;
+          });
+        });
+      }
       if (current == target) return;
 
       _pageController.jumpToPage(target);
@@ -42,7 +64,11 @@ class _KanjiDeckPageState extends ConsumerState<KanjiDeckPage> {
     final selected = _levels.indexOf(state.level);
     return Scaffold(
       appBar: AppBar(
-        title: Text(state.level.label),
+        centerTitle: false,
+        title: Text(
+          '${state.level.label} • ${_currentIndex + 1} / ${state.cards.length}',
+          style: Theme.of(context).textTheme.bodyLarge,
+        ),
         actions: [IconButton(icon: const Icon(Icons.tune), onPressed: () => openKanjiSettingsDialog(context))],
         scrolledUnderElevation: 0,
         surfaceTintColor: Colors.transparent,
@@ -65,6 +91,11 @@ class _KanjiDeckPageState extends ConsumerState<KanjiDeckPage> {
         onDestinationSelected: (index) async {
           final level = _levels[index];
           await ref.read(kanjiDeckControllerProvider.notifier).setLevel(level);
+          if (mounted) {
+            setState(() {
+              _currentIndex = 0;
+            });
+          }
           if (_pageController.hasClients) {
             _pageController.jumpToPage(0);
           }
