@@ -73,3 +73,7 @@ build/
 
 # Coverage reports
 coverage/
+
+#key properties
+android/key.properties
+*.jks

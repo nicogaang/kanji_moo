@@ -97,7 +97,6 @@ Future<void> openKanjiTipDialog(BuildContext context, {required VoidCallback onC
 Future<String> _loadRandomTip() async {
   try {
     final raw = await rootBundle.loadString('assets/kanji/kanji_tips.json');
-    print(raw);
     final decoded = jsonDecode(raw);
     final tips = _extractTips(decoded);
 

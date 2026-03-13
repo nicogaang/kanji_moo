@@ -68,7 +68,7 @@ void openKanjiSettingsDialog(BuildContext context) {
 
                           return ValueListenableBuilder(
                             valueListenable: box.listenable(keys: const ['show_learning_tips']),
-                            builder: (context, _, __) {
+                            builder: (context, _, _) {
                               final raw = box.get('show_learning_tips');
                               final showTips = raw is bool ? raw : true;
 

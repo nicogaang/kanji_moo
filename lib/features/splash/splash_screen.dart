@@ -83,9 +83,12 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
                 children: [
                   ScaleTransition(scale: _logoScale, child: logoOpacity),
                   const SizedBox(height: 12),
-                  const Text('Kanji Practice', style: TextStyle(fontSize: 26, fontWeight: FontWeight.w700)),
+                  const Text(
+                    'Kanji Practice',
+                    style: TextStyle(fontSize: 26, fontWeight: FontWeight.w700, color: Colors.black),
+                  ),
                   const SizedBox(height: 6),
-                  const Text('N5 • N4 • N3', style: TextStyle(fontSize: 14)),
+                  const Text('N5 • N4 • N3', style: TextStyle(fontSize: 14, color: Colors.black)),
                 ],
               ),
             ),
