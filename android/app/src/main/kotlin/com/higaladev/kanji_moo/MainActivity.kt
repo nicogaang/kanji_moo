@@ -1,4 +1,4 @@
-package com.example.kanji_moo
+package com.higaladev.kanjimoo
 
 import io.flutter.embedding.android.FlutterActivity
 
