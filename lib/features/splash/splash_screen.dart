@@ -1,15 +1,19 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+import '../onboarding/application/onboarding_controller.dart';
+import '../onboarding/presentation/pages/onboarding_page.dart';
 
 import '../home/main_screen.dart';
 
-class SplashScreen extends StatefulWidget {
+class SplashScreen extends ConsumerStatefulWidget {
   const SplashScreen({super.key});
 
   @override
-  State<SplashScreen> createState() => _SplashScreenState();
+  ConsumerState<SplashScreen> createState() => _SplashScreenState();
 }
 
-class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderStateMixin {
+class _SplashScreenState extends ConsumerState<SplashScreen> with SingleTickerProviderStateMixin {
   late final AnimationController _controller;
 
   late final Animation<double> _logoOpacityIn;
@@ -44,10 +48,30 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
       ),
     );
 
-    _controller.addStatusListener((status) {
+    _controller.addStatusListener((status) async {
       if (status != AnimationStatus.completed) return;
       if (!mounted) return;
-      Navigator.of(context).pushReplacement(MaterialPageRoute<void>(builder: (_) => const MainScreen()));
+
+      final onboardingController = ref.read(onboardingControllerProvider);
+      final isCompleted = await onboardingController.isCompleted();
+      if (!mounted) return;
+
+      if (isCompleted) {
+        Navigator.of(context).pushReplacement(MaterialPageRoute<void>(builder: (_) => const MainScreen()));
+        return;
+      }
+
+      Navigator.of(context).pushReplacement(
+        MaterialPageRoute<void>(
+          builder: (_) => OnboardingPage(
+            onFinish: () async {
+              await onboardingController.markCompleted();
+              if (!mounted) return;
+              Navigator.of(context).pushReplacement(MaterialPageRoute<void>(builder: (_) => const MainScreen()));
+            },
+          ),
+        ),
+      );
     });
 
     _controller.forward();
