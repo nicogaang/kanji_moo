@@ -36,19 +36,16 @@ class _KanjiCardViewState extends State<KanjiCardView> {
   }
 
   void _handleDoubleTap() {
-    // If both are always visible via settings, there is nothing to reveal.
     if (widget.showReadings && widget.showMeanings) return;
 
     final effectiveShowReadings = widget.showReadings || _isRevealed;
     final effectiveShowMeanings = widget.showMeanings || _isRevealed;
 
-    // If anything is hidden, reveal both at once.
     if (!effectiveShowReadings || !effectiveShowMeanings) {
       setState(() => _isRevealed = true);
       return;
     }
 
-    // If everything is already visible, toggle back to hidden (settings still apply).
     setState(() => _isRevealed = false);
   }
 

@@ -52,22 +52,22 @@ class _SplashScreenState extends ConsumerState<SplashScreen> with SingleTickerPr
       if (status != AnimationStatus.completed) return;
       if (!mounted) return;
 
+      final navigator = Navigator.of(context);
       final onboardingController = ref.read(onboardingControllerProvider);
       final isCompleted = await onboardingController.isCompleted();
       if (!mounted) return;
 
       if (isCompleted) {
-        Navigator.of(context).pushReplacement(MaterialPageRoute<void>(builder: (_) => const MainScreen()));
+        navigator.pushReplacement(MaterialPageRoute<void>(builder: (_) => const MainScreen()));
         return;
       }
 
-      Navigator.of(context).pushReplacement(
+      navigator.pushReplacement(
         MaterialPageRoute<void>(
           builder: (_) => OnboardingPage(
             onFinish: () async {
               await onboardingController.markCompleted();
-              if (!mounted) return;
-              Navigator.of(context).pushReplacement(MaterialPageRoute<void>(builder: (_) => const MainScreen()));
+              navigator.pushReplacement(MaterialPageRoute<void>(builder: (_) => const MainScreen()));
             },
           ),
         ),

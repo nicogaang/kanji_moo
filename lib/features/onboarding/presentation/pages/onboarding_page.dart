@@ -14,19 +14,15 @@ class _OnboardingPageState extends State<OnboardingPage> {
 
   static const List<_OnboardingItem> _items = [
     _OnboardingItem(
-      icon: Icons.style_outlined,
-      title: 'Study JLPT Kanji Simply',
-      description: 'KanjiMoo helps you review N5, N4, and N3 kanji with a clean flashcard experience.',
-    ),
-    _OnboardingItem(
       icon: Icons.swipe_vertical_outlined,
       title: 'Swipe Through Cards',
       description: 'Swipe up or down to move through each kanji card and stay focused on one item at a time.',
     ),
     _OnboardingItem(
       icon: Icons.touch_app_outlined,
-      title: 'Double Tap to Reveal',
-      description: 'Double tap a card to quickly show the reading and meaning while studying.',
+      title: 'Double Tap for Quick Review',
+      description:
+          'Review N5, N4, and N3 kanji with a clean flashcard experience, then double tap a card to quickly show the reading and meaning.',
     ),
     _OnboardingItem(
       icon: Icons.tune_outlined,
